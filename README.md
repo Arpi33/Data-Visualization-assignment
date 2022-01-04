@@ -25,3 +25,6 @@ button on the left, it will take you to each chart individually. You can click o
 button to go to the other charts.</p>
 
 <strong> The final dashboard is as below </strong>
+
+![alt text](https://github.com/Arpi33/Data-Visualization-assignment/blob/main/img/dashbaord.PNG?raw=true)
+
