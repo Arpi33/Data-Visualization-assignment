@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+    <script> 
+        $(function(){
+        $("#header").load("header.html"); 
+        });
+    </script>
+
+    <title>Graph 4</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+
+<body>
+<div id="header"></div>
+
+<svg width="1000" height="500"></svg>
+
+<style>
+
+    .axis-grid line {
+        stroke: silver;
+    }
+
+    svg{
+        background-color: #E9F0F1;
+        position: absolute;
+        left: 400px;
+        top: 200px;
+    }
+
+    .tooltip {
+        position      : absolute;
+        text-align    : left;
+        min-width     : 80px;
+        min-height    : auto;
+        padding       : 8px;
+        border        : solid;
+        border-radius : 8px;
+        border-radius : 8px;
+        font          : 15px sans-serif;
+        background    : white;
+        color         : black;
+    }
+
+    .dot {
+        opacity: 1;
+        transition: opacity 0.3s;
+    }
+
+    .dot:hover circle {
+        fill-opacity: 1;
+    }
+
+</style>
+
+<script>
+
+    var svg = d3.select("svg"),
+    margin = {
+        top: 50,
+        right: 80,
+        bottom: 80,
+        left: 50
+    },
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    d3.csv("hfi_cc1.csv").then(function (csv_data) {
+        var data = d3.nest() //Nest the data
+            //.key(function(d){ return d.year; }) //Group by year
+            //.sortKeys(d3.ascending)
+            .key(function(d){ return d.Country; }) 
+            .key(function(d){ return d.Region; }) 
+            .rollup(function(d){ //Sum each value by year
+                return{
+                    crime_cases: d3.mean(d, function(e) { return e.crime_cases; }),
+                    PF_Score: d3.mean(d, function(e) { return e.pf_score; })
+                };
+            })
+            .entries(csv_data)
+
+        var vars = [];
+
+        for (let k = 0; k < data.length; k++) {  //Loop the Countries
+            for (let i = 0; i < data[k].values.length; i++) { //Loop the Region
+                //Push found data into vars array
+                vars.push({"region":data[k].values[i].key, "country":data[k].key, "xVar":data[k].values[i].value.crime_cases, "yVal":data[k].values[i].value.PF_Score},); 
+            }
+        }
+         
+
+        //---------------------------- CONSOLE LOGS --------------------------------------
+        console.log(data); 
+        console.log(data[0].values[0].value.PF_Score); //Country, Region
+        console.log(data[0].values[0].value.crime_cases); //Country, Region
+        console.log(data[0].values.length); //Region array size
+        console.log(data.length); //Country array size
+        console.log(data[0].values[0].key); //Region key
+        console.log(data[0].key); //Country Key
+        console.log(vars);
+        //---------------------------- CONSOLE LOGS --------------------------------------
+
+
+
+        //SCALING
+        var x = d3.scaleLinear() //x-axis scaling
+            .domain([0, 10])
+            .range([0, width]);
+
+        var y = d3.scaleLinear() //y-axis scaling
+            .domain([0, 10])
+            .range([height, 0]);
+
+        g.append("g")  //x-axis value labels
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x))
+        .selectAll("text")
+        .attr("transform", "translate(0,0)rotate(-0)") //Rotate x-axis labels
+        .style("text-anchor", "middle");
+
+        g.append("g") //x-axis label text
+        .append("text")
+        .attr("transform", "translate(500,400)rotate(0)")
+        .attr("x", 6)
+        .attr("dx", "0.71em")
+        .attr("text-anchor", "end")
+        .style("font-family", "times_new_roman")
+        .style("font-weight", 900)  
+        .text("Crime cases");
+
+        g.append("g") //y-axis label text
+        .call(d3.axisLeft(y))
+        .append("text")
+        .attr("fill", "#000")
+        .attr("transform", "scale(1.5)translate(-30, 100)rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", "0.71em")
+        .attr("text-anchor", "end")
+        .style("font-family", "times_new_roman")
+        .style("font-weight", 900)  
+        .text("PF Score");
+
+        //GRID LINES
+        const yAxisGrid = d3.axisLeft(y).tickSize(-width).tickFormat('').ticks(10);
+        const xAxisGrid = d3.axisBottom(x).tickSize(-height).tickFormat('').ticks(10);
+
+        g.append('g')
+        .attr('class', 'y axis-grid')
+        .call(yAxisGrid);
+
+        g.append('g')
+        .attr('class', 'x axis-grid')
+        .attr('transform', 'translate(0,' + height + ')')
+        .call(xAxisGrid);
+
+        //COLOR
+        var color = d3.scaleOrdinal()
+        .domain(["Eastern Europe", "Middle East & North Africa", "Sub-Saharan Africa", "Latin America & the Caribbean", "Caucasus & Central Asia", "Oceania", "Western Europe", "South Asia", "North America", "East Asia"])
+        .range([ "#E15759", "#59A14F", "#9C755F", "#76B7B2", "#4E79A7", "#B07AA1", "#BAB0AC", "#FF9DA7", "#EDC948", "#F28E2B"]);
+
+
+        var tooltip = d3.select("body")
+            .append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        // Three function that change the tooltip when user hover / move / leave a cell
+        var mouseover = function(d) {
+            tooltip.style("opacity", 1)
+            d3.select(this)
+            .style("stroke", "black")
+        }
+        var mousemove = function(d) {
+            tooltip
+            .html(
+                "Region: " + d.region + "<br/>" + 
+                "Country: " + d.country + "<br/>" + 
+                "crime_cases: " + (Math.round((d.xVar) * 100) / 100) + "<br/>" + 
+                "PF Score: " + (Math.round((d.yVal) * 100) / 100)
+            )
+            .style("left", (d3.mouse(this)[0]+300) + "px")
+            .style("top", (d3.mouse(this)[1]+200) + "px")
+        }
+        var mouseleave = function(d) {
+            tooltip.style("opacity", 0)
+            d3.select(this)
+            .style("stroke", "none")
+            .style("opacity", 0.8)
+        }
+
+
+        //DOTS
+        g.append('g')
+        .selectAll("dot")
+        .data(vars)
+        .enter()
+        .append("circle")
+        .attr("cx", function (d) { return x(d.xVar); })
+        .attr("cy", function (d) { return y(d.yVal); })
+        .attr("r", 5)
+        .style("fill", function (d) { return color(d.region); })
+        .on("mouseover", mouseover)
+        .on("mousemove", mousemove)
+        .on("mouseleave", mouseleave);
+
+        //LEGENDS INFOS
+        regionInfo = [{"name":"Eastern Europe", "color":"#E15759"},
+                    {"name":"Middle East & North Africa", "color":"#59A14F"},
+                    {"name":"Sub-Saharan Africa", "color":"#9C755F"},
+                    {"name":"Latin America & the Caribbean", "color":"#76B7B2"},
+                    {"name":"Caucasus & Central Asia", "color":"#4E79A7"},
+                    {"name":"Oceania", "color":"#B07AA1"},
+                    {"name":"Western Europe", "color":"#BAB0AC"},
+                    {"name":"South Asia", "color":"#FF9DA7"},
+                    {"name":"North America", "color":"#EDC948"},
+                    {"name":"East Asia", "color":"#F28E2B"}
+        ];
+
+        //LEGEND DOTS
+        g.selectAll("mydots")
+        .data(regionInfo)
+        .enter()
+        .append("circle")
+            .attr("cx", 20)
+            .attr("cy", function(d,i){ return 20 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+            .attr("r", 6)
+            .style("fill", function(d){ return color(d.color)})
+
+        // Add one dot in the legend for each name.
+        g.selectAll("mylabels")
+        .data(regionInfo)
+        .enter()
+        .append("text")
+            .attr("x", 40)
+            .attr("y", function(d,i){ return 20 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+            .style("fill", function(d){ return color(d.color)})
+            .text(function(d){ return d.name })
+            .attr("text-anchor", "left")
+            .style("alignment-baseline", "middle")
+            .style("font-size", "14px")
+            .style("font-weight", 900)
+            .style("outline", "border: 1px solid red")
+            .style("font-weight", "bold") 
+
+
+        //TITLE
+        g.append("text") 
+        .attr("x", (width / 2))             
+        .attr("y", 15 - (margin.top / 2))
+        .attr("text-anchor", "middle")  
+        .style("font-size", "24px") 
+        .style("font-weight", 900)  
+        .style("text-decoration", "bold")  
+        .text("Personal Freedom Score and Crime cases");
+        
+
+    });
+
+
+
+</script>
+
+
+</body>
+</html>
