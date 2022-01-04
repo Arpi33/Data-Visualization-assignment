@@ -1,0 +1,1582 @@
+Country,Region,pf_score,crime_cases
+Albania,Eastern Europe,7.81,9.85
+Albania,Eastern Europe,7.86,9.85
+Albania,Eastern Europe,7.57,9.77
+Albania,Eastern Europe,7.4,9.82
+Albania,Eastern Europe,7.64,9.7
+Albania,Eastern Europe,7.49,9.7
+Albania,Eastern Europe,7.62,9.63
+Albania,Eastern Europe,7.74,9.68
+Albania,Eastern Europe,8.09,9.72
+Albania,Eastern Europe,8.16,9.82
+Albania,Eastern Europe,8.13,9.8
+Algeria,Middle East & North Africa,5.42,9.0
+Algeria,Middle East & North Africa,5.08,8.97
+Algeria,Middle East & North Africa,5.33,8.95
+Algeria,Middle East & North Africa,5.2,8.88
+Algeria,Middle East & North Africa,5.16,8.0
+Algeria,Middle East & North Africa,5.16,7.85
+Algeria,Middle East & North Africa,5.15,7.7
+Algeria,Middle East & North Africa,5.25,7.82
+Algeria,Middle East & North Africa,5.47,8.38
+Algeria,Middle East & North Africa,5.41,7.82
+Algeria,Middle East & North Africa,5.43,7.87
+Angola,Sub-Saharan Africa,6.21,9.27
+Angola,Sub-Saharan Africa,5.91,8.73
+Angola,Sub-Saharan Africa,6.3,9.27
+Angola,Sub-Saharan Africa,5.9,8.43
+Angola,Sub-Saharan Africa,5.77,8.43
+Angola,Sub-Saharan Africa,5.66,8.43
+Angola,Sub-Saharan Africa,5.57,8.43
+Angola,Sub-Saharan Africa,5.71,8.47
+Angola,Sub-Saharan Africa,5.88,9.27
+Angola,Sub-Saharan Africa,5.88,8.4
+Angola,Sub-Saharan Africa,5.8,8.47
+Argentina,Latin America & the Caribbean,8.32,8.4
+Argentina,Latin America & the Caribbean,8.34,8.42
+Argentina,Latin America & the Caribbean,8.35,9.18
+Argentina,Latin America & the Caribbean,8.27,9.15
+Argentina,Latin America & the Caribbean,8.17,9.08
+Argentina,Latin America & the Caribbean,8.17,9.08
+Argentina,Latin America & the Caribbean,8.16,9.08
+Argentina,Latin America & the Caribbean,8.16,9.08
+Argentina,Latin America & the Caribbean,8.17,9.08
+Argentina,Latin America & the Caribbean,8.16,9.08
+Argentina,Latin America & the Caribbean,8.18,9.08
+Armenia,Caucasus & Central Asia,7.45,9.47
+Armenia,Caucasus & Central Asia,7.34,9.42
+Armenia,Caucasus & Central Asia,7.38,9.25
+Armenia,Caucasus & Central Asia,7.16,9.4
+Armenia,Caucasus & Central Asia,7.2,9.42
+Armenia,Caucasus & Central Asia,7.37,9.42
+Armenia,Caucasus & Central Asia,7.33,9.43
+Armenia,Caucasus & Central Asia,7.41,9.42
+Armenia,Caucasus & Central Asia,7.29,9.45
+Armenia,Caucasus & Central Asia,7.24,9.35
+Australia,Oceania,9.12,9.93
+Australia,Oceania,9.13,9.9
+Australia,Oceania,9.1,9.93
+Australia,Oceania,9.13,9.93
+Australia,Oceania,9.26,9.9
+Australia,Oceania,9.19,9.93
+Australia,Oceania,9.21,9.93
+Australia,Oceania,9.24,9.93
+Australia,Oceania,9.25,9.93
+Australia,Oceania,9.25,9.92
+Australia,Oceania,9.25,9.92
+Austria,Western Europe,9.09,9.93
+Austria,Western Europe,9.12,9.93
+Austria,Western Europe,9.15,9.95
+Austria,Western Europe,9.28,9.97
+Austria,Western Europe,9.3,9.95
+Austria,Western Europe,9.24,9.95
+Austria,Western Europe,9.22,9.93
+Austria,Western Europe,9.11,9.93
+Austria,Western Europe,9.1,9.95
+Austria,Western Europe,9.11,9.93
+Austria,Western Europe,9.11,9.95
+Azerbaijan,Caucasus & Central Asia,6.21,9.43
+Azerbaijan,Caucasus & Central Asia,6.24,9.22
+Azerbaijan,Caucasus & Central Asia,5.78,8.63
+Azerbaijan,Caucasus & Central Asia,5.68,9.02
+Azerbaijan,Caucasus & Central Asia,6.0,9.15
+Azerbaijan,Caucasus & Central Asia,6.16,9.43
+Azerbaijan,Caucasus & Central Asia,6.03,9.28
+Azerbaijan,Caucasus & Central Asia,6.21,9.43
+Azerbaijan,Caucasus & Central Asia,6.69,9.43
+Azerbaijan,Caucasus & Central Asia,6.41,9.43
+Azerbaijan,Caucasus & Central Asia,6.64,9.17
+Bahrain,Middle East & North Africa,5.19,8.7
+Bahrain,Middle East & North Africa,5.18,7.92
+Bahrain,Middle East & North Africa,5.35,8.63
+Bahrain,Middle East & North Africa,5.53,7.98
+Bahrain,Middle East & North Africa,5.47,7.38
+Bahrain,Middle East & North Africa,5.57,7.6
+Bahrain,Middle East & North Africa,5.41,7.62
+Bahrain,Middle East & North Africa,5.53,7.05
+Bahrain,Middle East & North Africa,6.41,8.68
+Bahrain,Middle East & North Africa,6.88,9.52
+Bahrain,Middle East & North Africa,6.91,9.43
+Bangladesh,South Asia,5.3,7.32
+Bangladesh,South Asia,5.35,7.3
+Bangladesh,South Asia,5.27,7.28
+Bangladesh,South Asia,5.36,7.98
+Bangladesh,South Asia,5.5,7.28
+Bangladesh,South Asia,5.26,8.13
+Bangladesh,South Asia,5.54,8.15
+Bangladesh,South Asia,5.84,8.17
+Bangladesh,South Asia,5.89,8.17
+Bangladesh,South Asia,5.87,8.13
+Bangladesh,South Asia,5.81,8.13
+Belarus,Eastern Europe,6.99,9.0
+Belarus,Eastern Europe,7.01,8.93
+Belarus,Eastern Europe,6.58,8.93
+Belgium,Western Europe,8.99,9.85
+Belgium,Western Europe,9.0,9.87
+Belgium,Western Europe,8.89,8.9
+Belgium,Western Europe,9.07,9.87
+Belgium,Western Europe,9.05,9.85
+Belgium,Western Europe,9.03,9.88
+Belgium,Western Europe,8.98,9.88
+Belgium,Western Europe,9.01,9.87
+Belgium,Western Europe,9.04,9.88
+Belgium,Western Europe,9.05,9.88
+Belgium,Western Europe,9.02,9.87
+Benin,Sub-Saharan Africa,7.41,9.52
+Benin,Sub-Saharan Africa,7.49,9.52
+Benin,Sub-Saharan Africa,7.31,9.17
+Benin,Sub-Saharan Africa,7.52,9.17
+Benin,Sub-Saharan Africa,7.51,9.17
+Benin,Sub-Saharan Africa,7.26,8.33
+Benin,Sub-Saharan Africa,7.16,8.32
+Benin,Sub-Saharan Africa,7.22,8.32
+Benin,Sub-Saharan Africa,7.35,7.48
+Benin,Sub-Saharan Africa,7.43,8.32
+Bhutan,South Asia,6.41,9.5
+Bhutan,South Asia,6.43,9.48
+Bhutan,South Asia,6.31,9.5
+Bhutan,South Asia,6.52,9.48
+Bhutan,South Asia,6.72,9.48
+Bhutan,South Asia,6.79,9.37
+Bolivia,Latin America & the Caribbean,7.26,8.92
+Bolivia,Latin America & the Caribbean,7.27,9.17
+Bolivia,Latin America & the Caribbean,7.36,9.17
+Bolivia,Latin America & the Caribbean,7.5,9.17
+Bolivia,Latin America & the Caribbean,7.51,8.98
+Bolivia,Latin America & the Caribbean,7.27,8.98
+Bolivia,Latin America & the Caribbean,7.35,8.37
+Bolivia,Latin America & the Caribbean,7.57,8.35
+Bolivia,Latin America & the Caribbean,7.5,8.32
+Bolivia,Latin America & the Caribbean,7.64,8.58
+Bolivia,Latin America & the Caribbean,7.51,8.58
+Bosnia and Herzegovina,Eastern Europe,7.78,9.07
+Bosnia and Herzegovina,Eastern Europe,7.86,9.08
+Bosnia and Herzegovina,Eastern Europe,7.93,9.08
+Bosnia and Herzegovina,Eastern Europe,7.76,9.37
+Bosnia and Herzegovina,Eastern Europe,8.01,9.45
+Bosnia and Herzegovina,Eastern Europe,7.9,9.5
+Bosnia and Herzegovina,Eastern Europe,7.93,9.47
+Bosnia and Herzegovina,Eastern Europe,8.05,9.47
+Bosnia and Herzegovina,Eastern Europe,8.31,9.42
+Bosnia and Herzegovina,Eastern Europe,8.31,9.45
+Bosnia and Herzegovina,Eastern Europe,8.15,9.35
+Botswana,Sub-Saharan Africa,7.1,9.0
+Botswana,Sub-Saharan Africa,7.02,9.0
+Botswana,Sub-Saharan Africa,7.08,9.0
+Botswana,Sub-Saharan Africa,6.98,9.0
+Botswana,Sub-Saharan Africa,6.95,9.0
+Botswana,Sub-Saharan Africa,6.87,9.0
+Botswana,Sub-Saharan Africa,6.87,9.0
+Botswana,Sub-Saharan Africa,6.83,9.0
+Botswana,Sub-Saharan Africa,7.03,9.0
+Botswana,Sub-Saharan Africa,7.06,9.03
+Botswana,Sub-Saharan Africa,7.03,9.03
+Brazil,Latin America & the Caribbean,7.1,7.92
+Brazil,Latin America & the Caribbean,7.23,8.33
+Brazil,Latin America & the Caribbean,6.91,7.5
+Brazil,Latin America & the Caribbean,7.15,8.33
+Brazil,Latin America & the Caribbean,7.46,8.33
+Brazil,Latin America & the Caribbean,7.48,8.33
+Brazil,Latin America & the Caribbean,7.61,8.33
+Brazil,Latin America & the Caribbean,7.74,7.55
+Brazil,Latin America & the Caribbean,8.01,8.53
+Brazil,Latin America & the Caribbean,7.99,8.48
+Brazil,Latin America & the Caribbean,7.95,8.42
+Bulgaria,Eastern Europe,8.11,9.92
+Bulgaria,Eastern Europe,8.02,9.9
+Bulgaria,Eastern Europe,8.06,9.92
+Bulgaria,Eastern Europe,8.17,9.88
+Bulgaria,Eastern Europe,8.33,9.9
+Bulgaria,Eastern Europe,8.27,9.9
+Bulgaria,Eastern Europe,8.31,9.67
+Bulgaria,Eastern Europe,8.4,9.88
+Bulgaria,Eastern Europe,8.33,9.87
+Bulgaria,Eastern Europe,8.38,9.87
+Bulgaria,Eastern Europe,8.27,9.85
+Burkina Faso,Sub-Saharan Africa,7.34,8.42
+Burkina Faso,Sub-Saharan Africa,7.51,9.27
+Burkina Faso,Sub-Saharan Africa,7.33,9.37
+Burkina Faso,Sub-Saharan Africa,7.32,9.52
+Burkina Faso,Sub-Saharan Africa,7.26,9.53
+Burkina Faso,Sub-Saharan Africa,7.42,9.53
+Burkina Faso,Sub-Saharan Africa,7.33,9.53
+Burkina Faso,Sub-Saharan Africa,7.43,9.55
+Burkina Faso,Sub-Saharan Africa,7.77,9.53
+Burkina Faso,Sub-Saharan Africa,7.59,9.52
+Burkina Faso,Sub-Saharan Africa,7.71,9.52
+Burundi,Sub-Saharan Africa,4.9,6.25
+Burundi,Sub-Saharan Africa,4.94,6.2
+Burundi,Sub-Saharan Africa,4.49,5.63
+Burundi,Sub-Saharan Africa,4.24,4.57
+Burundi,Sub-Saharan Africa,5.09,8.07
+Burundi,Sub-Saharan Africa,5.77,8.33
+Burundi,Sub-Saharan Africa,5.76,8.28
+Burundi,Sub-Saharan Africa,5.86,8.1
+Burundi,Sub-Saharan Africa,6.12,7.35
+Burundi,Sub-Saharan Africa,6.54,8.45
+Burundi,Sub-Saharan Africa,6.12,5.9
+Cambodia,South Asia,6.38,8.63
+Cambodia,South Asia,6.38,8.63
+Cambodia,South Asia,6.92,9.47
+Cambodia,South Asia,7.06,9.47
+Cambodia,South Asia,7.04,8.63
+Cambodia,South Asia,7.24,9.03
+Cambodia,South Asia,7.2,9.47
+Cambodia,South Asia,7.15,9.37
+Cambodia,South Asia,7.24,9.43
+Cameroon,Sub-Saharan Africa,5.07,5.2
+Cameroon,Sub-Saharan Africa,5.35,6.8
+Cameroon,Sub-Saharan Africa,5.48,6.27
+Cameroon,Sub-Saharan Africa,5.12,3.0
+Cameroon,Sub-Saharan Africa,5.62,6.15
+Cameroon,Sub-Saharan Africa,5.94,8.88
+Cameroon,Sub-Saharan Africa,5.99,8.88
+Cameroon,Sub-Saharan Africa,6.0,8.88
+Cameroon,Sub-Saharan Africa,5.72,8.82
+Cameroon,Sub-Saharan Africa,5.71,8.73
+Cameroon,Sub-Saharan Africa,5.78,8.88
+Canada,North America,9.1,9.83
+Canada,North America,9.12,9.85
+Canada,North America,9.04,9.85
+Canada,North America,9.03,9.88
+Canada,North America,9.12,9.9
+Canada,North America,9.13,9.88
+Canada,North America,9.09,9.9
+Canada,North America,9.12,9.88
+Canada,North America,9.12,9.88
+Canada,North America,9.12,9.88
+Canada,North America,9.11,9.87
+Central African Republic,Sub-Saharan Africa,5.22,3.1
+Central African Republic,Sub-Saharan Africa,5.4,3.68
+Central African Republic,Sub-Saharan Africa,5.27,4.1
+Central African Republic,Sub-Saharan Africa,5.15,3.85
+Central African Republic,Sub-Saharan Africa,4.96,2.85
+Central African Republic,Sub-Saharan Africa,4.39,2.5
+Central African Republic,Sub-Saharan Africa,4.91,5.35
+Central African Republic,Sub-Saharan Africa,5.15,6.43
+Central African Republic,Sub-Saharan Africa,5.63,5.13
+Central African Republic,Sub-Saharan Africa,5.83,6.52
+Central African Republic,Sub-Saharan Africa,5.97,8.25
+Chad,Sub-Saharan Africa,5.47,6.35
+Chad,Sub-Saharan Africa,5.3,6.87
+Chad,Sub-Saharan Africa,4.69,6.25
+Chad,Sub-Saharan Africa,5.39,4.0
+Chad,Sub-Saharan Africa,5.82,8.13
+Chad,Sub-Saharan Africa,5.62,8.15
+Chad,Sub-Saharan Africa,5.61,8.1
+Chad,Sub-Saharan Africa,5.48,7.27
+Chad,Sub-Saharan Africa,5.47,7.9
+Chad,Sub-Saharan Africa,5.32,6.22
+Chad,Sub-Saharan Africa,5.33,5.08
+Chile,Latin America & the Caribbean,8.4,9.68
+Chile,Latin America & the Caribbean,8.44,9.72
+Chile,Latin America & the Caribbean,8.13,9.77
+Chile,Latin America & the Caribbean,8.17,9.77
+Chile,Latin America & the Caribbean,8.22,9.72
+Chile,Latin America & the Caribbean,8.17,9.78
+Chile,Latin America & the Caribbean,8.45,9.83
+Chile,Latin America & the Caribbean,8.49,9.75
+Chile,Latin America & the Caribbean,8.51,9.78
+Chile,Latin America & the Caribbean,8.48,9.75
+Chile,Latin America & the Caribbean,8.51,9.77
+China,East Asia,5.92,8.52
+China,East Asia,6.02,8.3
+China,East Asia,5.71,7.47
+China,East Asia,5.57,7.45
+China,East Asia,5.8,7.83
+China,East Asia,5.83,8.28
+China,East Asia,5.85,8.28
+China,East Asia,5.88,7.43
+China,East Asia,5.89,7.43
+China,East Asia,5.89,7.43
+China,East Asia,6.04,9.1
+Colombia,Latin America & the Caribbean,6.98,4.98
+Colombia,Latin America & the Caribbean,7.19,5.23
+Colombia,Latin America & the Caribbean,6.99,5.3
+Colombia,Latin America & the Caribbean,6.93,4.65
+Colombia,Latin America & the Caribbean,6.95,4.9
+Colombia,Latin America & the Caribbean,6.87,4.9
+Colombia,Latin America & the Caribbean,6.84,4.65
+Colombia,Latin America & the Caribbean,6.78,5.05
+Colombia,Latin America & the Caribbean,7.06,4.75
+Colombia,Latin America & the Caribbean,6.98,4.65
+Colombia,Latin America & the Caribbean,7.04,4.83
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.42,5.57
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.31,5.37
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.08,6.45
+"Congo, Dem. Rep.",Sub-Saharan Africa,4.87,5.82
+"Congo, Dem. Rep.",Sub-Saharan Africa,4.78,5.72
+"Congo, Dem. Rep.",Sub-Saharan Africa,4.58,4.48
+"Congo, Dem. Rep.",Sub-Saharan Africa,4.54,4.87
+"Congo, Dem. Rep.",Sub-Saharan Africa,4.89,6.07
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.38,6.45
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.42,6.15
+"Congo, Dem. Rep.",Sub-Saharan Africa,5.42,6.28
+"Congo, Rep.",Sub-Saharan Africa,5.99,7.72
+"Congo, Rep.",Sub-Saharan Africa,5.97,7.72
+"Congo, Rep.",Sub-Saharan Africa,5.8,6.55
+"Congo, Rep.",Sub-Saharan Africa,6.21,6.88
+"Congo, Rep.",Sub-Saharan Africa,6.24,7.72
+"Congo, Rep.",Sub-Saharan Africa,6.36,7.7
+"Congo, Rep.",Sub-Saharan Africa,6.26,8.52
+"Congo, Rep.",Sub-Saharan Africa,6.3,8.52
+"Congo, Rep.",Sub-Saharan Africa,6.58,8.52
+"Congo, Rep.",Sub-Saharan Africa,6.32,8.52
+"Congo, Rep.",Sub-Saharan Africa,6.29,6.63
+Costa Rica,Latin America & the Caribbean,8.05,9.25
+Costa Rica,Latin America & the Caribbean,8.03,9.18
+Costa Rica,Latin America & the Caribbean,8.14,9.2
+Costa Rica,Latin America & the Caribbean,8.23,9.23
+Costa Rica,Latin America & the Caribbean,8.69,9.33
+Costa Rica,Latin America & the Caribbean,8.55,9.42
+Costa Rica,Latin America & the Caribbean,8.56,9.42
+Costa Rica,Latin America & the Caribbean,8.38,9.32
+Costa Rica,Latin America & the Caribbean,8.34,9.23
+Costa Rica,Latin America & the Caribbean,8.34,9.22
+Costa Rica,Latin America & the Caribbean,8.31,9.23
+Cote d'Ivoire,Sub-Saharan Africa,6.93,8.38
+Cote d'Ivoire,Sub-Saharan Africa,6.97,8.38
+Cote d'Ivoire,Sub-Saharan Africa,6.82,8.28
+Cote d'Ivoire,Sub-Saharan Africa,6.67,7.5
+Cote d'Ivoire,Sub-Saharan Africa,6.7,7.53
+Cote d'Ivoire,Sub-Saharan Africa,6.67,7.97
+Cote d'Ivoire,Sub-Saharan Africa,6.26,7.77
+Cote d'Ivoire,Sub-Saharan Africa,6.01,6.9
+Cote d'Ivoire,Sub-Saharan Africa,6.48,7.02
+Cote d'Ivoire,Sub-Saharan Africa,6.59,7.48
+Cote d'Ivoire,Sub-Saharan Africa,6.58,7.48
+Croatia,Eastern Europe,8.47,9.97
+Croatia,Eastern Europe,8.45,9.93
+Croatia,Eastern Europe,8.44,9.93
+Croatia,Eastern Europe,8.59,9.95
+Croatia,Eastern Europe,8.58,9.95
+Croatia,Eastern Europe,8.49,9.87
+Croatia,Eastern Europe,8.52,9.92
+Croatia,Eastern Europe,8.58,9.92
+Croatia,Eastern Europe,8.33,9.9
+Croatia,Eastern Europe,8.51,9.9
+Croatia,Eastern Europe,8.14,9.88
+Cyprus,Eastern Europe,8.25,9.5
+Cyprus,Eastern Europe,8.36,9.55
+Cyprus,Eastern Europe,8.65,9.52
+Cyprus,Eastern Europe,8.81,9.5
+Cyprus,Eastern Europe,8.82,9.52
+Cyprus,Eastern Europe,8.54,9.48
+Cyprus,Eastern Europe,8.58,9.45
+Cyprus,Eastern Europe,8.68,9.53
+Cyprus,Eastern Europe,8.97,9.53
+Cyprus,Eastern Europe,8.94,9.47
+Cyprus,Eastern Europe,8.96,9.53
+Czech Republic,Eastern Europe,8.76,9.97
+Czech Republic,Eastern Europe,8.87,9.97
+Czech Republic,Eastern Europe,8.97,9.97
+Czech Republic,Eastern Europe,8.98,9.95
+Czech Republic,Eastern Europe,9.02,9.53
+Czech Republic,Eastern Europe,9.06,9.53
+Czech Republic,Eastern Europe,9.08,9.52
+Czech Republic,Eastern Europe,9.07,9.53
+Czech Republic,Eastern Europe,9.05,9.52
+Czech Republic,Eastern Europe,9.12,9.92
+Czech Republic,Eastern Europe,9.11,9.87
+Denmark,Western Europe,9.35,9.93
+Denmark,Western Europe,9.3,9.92
+Denmark,Western Europe,9.22,9.9
+Denmark,Western Europe,9.39,9.88
+Denmark,Western Europe,9.44,9.92
+Denmark,Western Europe,9.5,9.93
+Denmark,Western Europe,9.49,9.95
+Denmark,Western Europe,9.48,9.92
+Denmark,Western Europe,9.49,9.95
+Denmark,Western Europe,9.48,9.95
+Denmark,Western Europe,9.48,9.92
+Dominican Republic,Latin America & the Caribbean,7.16,8.92
+Dominican Republic,Latin America & the Caribbean,6.98,8.82
+Dominican Republic,Latin America & the Caribbean,7.24,8.57
+Dominican Republic,Latin America & the Caribbean,6.98,8.57
+Dominican Republic,Latin America & the Caribbean,7.36,8.42
+Dominican Republic,Latin America & the Caribbean,7.12,7.47
+Dominican Republic,Latin America & the Caribbean,7.13,8.1
+Dominican Republic,Latin America & the Caribbean,7.15,7.92
+Dominican Republic,Latin America & the Caribbean,7.25,7.92
+Dominican Republic,Latin America & the Caribbean,7.22,7.55
+Dominican Republic,Latin America & the Caribbean,7.23,8.35
+Ecuador,Latin America & the Caribbean,7.82,9.08
+Ecuador,Latin America & the Caribbean,7.67,9.2
+Ecuador,Latin America & the Caribbean,7.73,9.18
+Ecuador,Latin America & the Caribbean,7.63,8.73
+Ecuador,Latin America & the Caribbean,7.57,8.62
+Ecuador,Latin America & the Caribbean,7.43,8.43
+Ecuador,Latin America & the Caribbean,7.39,8.33
+Ecuador,Latin America & the Caribbean,7.48,8.13
+Ecuador,Latin America & the Caribbean,7.45,8.0
+Ecuador,Latin America & the Caribbean,7.47,7.98
+Ecuador,Latin America & the Caribbean,7.55,7.97
+"Egypt, Arab Rep.",Middle East & North Africa,3.95,6.85
+"Egypt, Arab Rep.",Middle East & North Africa,3.95,5.92
+"Egypt, Arab Rep.",Middle East & North Africa,3.65,6.2
+"Egypt, Arab Rep.",Middle East & North Africa,3.6,5.65
+"Egypt, Arab Rep.",Middle East & North Africa,4.01,7.23
+"Egypt, Arab Rep.",Middle East & North Africa,4.43,7.37
+"Egypt, Arab Rep.",Middle East & North Africa,4.79,8.93
+"Egypt, Arab Rep.",Middle East & North Africa,4.67,7.22
+"Egypt, Arab Rep.",Middle East & North Africa,5.12,9.02
+"Egypt, Arab Rep.",Middle East & North Africa,5.14,8.67
+"Egypt, Arab Rep.",Middle East & North Africa,5.18,9.08
+El Salvador,Latin America & the Caribbean,6.64,7.08
+El Salvador,Latin America & the Caribbean,6.64,7.08
+El Salvador,Latin America & the Caribbean,6.92,7.92
+El Salvador,Latin America & the Caribbean,7.05,7.92
+El Salvador,Latin America & the Caribbean,7.5,7.92
+El Salvador,Latin America & the Caribbean,7.33,7.92
+El Salvador,Latin America & the Caribbean,7.36,7.92
+El Salvador,Latin America & the Caribbean,7.05,7.5
+El Salvador,Latin America & the Caribbean,7.2,7.92
+El Salvador,Latin America & the Caribbean,6.98,7.92
+El Salvador,Latin America & the Caribbean,7.16,7.92
+Estonia,Eastern Europe,9.12,9.87
+Estonia,Eastern Europe,9.07,9.85
+Estonia,Eastern Europe,9.05,9.83
+Estonia,Eastern Europe,8.96,9.77
+Estonia,Eastern Europe,9.04,9.8
+Estonia,Eastern Europe,9.02,9.73
+Estonia,Eastern Europe,9.02,9.68
+Estonia,Eastern Europe,9.01,9.67
+Estonia,Eastern Europe,9.04,9.65
+Estonia,Eastern Europe,9.02,9.23
+Estonia,Eastern Europe,9.01,9.57
+Eswatini,Sub-Saharan Africa,5.76,8.82
+Eswatini,Sub-Saharan Africa,5.81,8.95
+Eswatini,Sub-Saharan Africa,5.7,9.02
+Eswatini,Sub-Saharan Africa,5.76,9.02
+Eswatini,Sub-Saharan Africa,5.44,8.98
+Eswatini,Sub-Saharan Africa,5.67,8.88
+Eswatini,Sub-Saharan Africa,5.38,8.2
+Eswatini,Sub-Saharan Africa,5.11,7.82
+Eswatini,Sub-Saharan Africa,5.35,8.43
+Ethiopia,Sub-Saharan Africa,5.18,7.35
+Ethiopia,Sub-Saharan Africa,5.03,7.37
+Ethiopia,Sub-Saharan Africa,5.17,7.2
+Ethiopia,Sub-Saharan Africa,5.11,7.75
+Ethiopia,Sub-Saharan Africa,5.14,7.82
+Ethiopia,Sub-Saharan Africa,5.33,6.95
+Ethiopia,Sub-Saharan Africa,5.26,7.72
+Ethiopia,Sub-Saharan Africa,5.37,7.32
+Ethiopia,Sub-Saharan Africa,5.41,7.67
+Ethiopia,Sub-Saharan Africa,5.45,8.05
+Ethiopia,Sub-Saharan Africa,5.6,7.48
+Finland,Western Europe,9.21,9.9
+Finland,Western Europe,9.21,9.83
+Finland,Western Europe,9.2,9.92
+Finland,Western Europe,9.28,9.9
+Finland,Western Europe,9.42,9.9
+Finland,Western Europe,9.42,9.88
+Finland,Western Europe,9.42,9.88
+Finland,Western Europe,9.46,9.87
+Finland,Western Europe,9.44,9.85
+Finland,Western Europe,9.45,9.85
+Finland,Western Europe,9.44,9.83
+France,Western Europe,8.7,9.88
+France,Western Europe,8.72,9.9
+France,Western Europe,8.75,9.6
+France,Western Europe,8.72,9.68
+France,Western Europe,8.73,9.5
+France,Western Europe,8.71,9.5
+France,Western Europe,8.68,9.5
+France,Western Europe,8.7,9.5
+France,Western Europe,8.71,9.5
+France,Western Europe,8.94,9.92
+France,Western Europe,8.91,9.47
+Gabon,Sub-Saharan Africa,6.42,8.63
+Gabon,Sub-Saharan Africa,6.47,8.6
+Gabon,Sub-Saharan Africa,5.92,7.8
+Gabon,Sub-Saharan Africa,5.84,8.63
+Gabon,Sub-Saharan Africa,5.78,8.63
+Gabon,Sub-Saharan Africa,6.05,9.05
+Gabon,Sub-Saharan Africa,5.68,8.58
+Gabon,Sub-Saharan Africa,6.11,8.58
+Gabon,Sub-Saharan Africa,6.09,8.58
+Gabon,Sub-Saharan Africa,6.04,9.0
+Gabon,Sub-Saharan Africa,5.87,9.0
+"Gambia, The",Sub-Saharan Africa,5.4,8.55
+"Gambia, The",Sub-Saharan Africa,5.34,8.55
+"Gambia, The",Sub-Saharan Africa,4.87,7.72
+"Gambia, The",Sub-Saharan Africa,4.93,7.72
+"Gambia, The",Sub-Saharan Africa,5.09,6.88
+"Gambia, The",Sub-Saharan Africa,5.23,8.13
+"Gambia, The",Sub-Saharan Africa,5.41,8.1
+"Gambia, The",Sub-Saharan Africa,5.73,8.1
+Georgia,Caucasus & Central Asia,7.56,9.0
+Georgia,Caucasus & Central Asia,7.62,9.05
+Georgia,Caucasus & Central Asia,7.48,9.02
+Georgia,Caucasus & Central Asia,7.87,9.1
+Georgia,Caucasus & Central Asia,7.85,8.97
+Georgia,Caucasus & Central Asia,7.72,8.97
+Georgia,Caucasus & Central Asia,7.44,8.53
+Georgia,Caucasus & Central Asia,7.56,8.42
+Georgia,Caucasus & Central Asia,7.96,7.43
+Georgia,Caucasus & Central Asia,7.99,7.75
+Georgia,Caucasus & Central Asia,7.42,5.73
+Germany,Western Europe,9.19,9.93
+Germany,Western Europe,9.19,9.93
+Germany,Western Europe,9.14,9.85
+Germany,Western Europe,9.18,9.93
+Germany,Western Europe,9.17,9.93
+Germany,Western Europe,9.09,9.95
+Germany,Western Europe,9.09,9.95
+Germany,Western Europe,9.12,9.93
+Germany,Western Europe,9.02,9.93
+Germany,Western Europe,9.06,9.93
+Germany,Western Europe,9.06,9.93
+Ghana,Sub-Saharan Africa,7.43,9.45
+Ghana,Sub-Saharan Africa,7.54,9.45
+Ghana,Sub-Saharan Africa,7.87,9.45
+Ghana,Sub-Saharan Africa,7.71,9.45
+Ghana,Sub-Saharan Africa,7.85,9.45
+Ghana,Sub-Saharan Africa,7.74,9.45
+Ghana,Sub-Saharan Africa,7.79,9.43
+Ghana,Sub-Saharan Africa,7.82,9.47
+Ghana,Sub-Saharan Africa,7.8,9.47
+Ghana,Sub-Saharan Africa,7.83,9.47
+Ghana,Sub-Saharan Africa,7.81,9.47
+Greece,Eastern Europe,8.04,9.03
+Greece,Eastern Europe,8.04,9.1
+Greece,Eastern Europe,7.9,8.78
+Greece,Eastern Europe,8.02,9.12
+Greece,Eastern Europe,8.08,9.08
+Greece,Eastern Europe,8.07,9.05
+Greece,Eastern Europe,8.28,9.47
+Greece,Eastern Europe,8.39,9.47
+Greece,Eastern Europe,8.32,9.45
+Greece,Eastern Europe,8.4,9.47
+Greece,Eastern Europe,8.41,9.5
+Guatemala,Latin America & the Caribbean,6.71,7.65
+Guatemala,Latin America & the Caribbean,6.66,7.5
+Guatemala,Latin America & the Caribbean,6.66,7.5
+Guatemala,Latin America & the Caribbean,6.65,7.5
+Guatemala,Latin America & the Caribbean,7.07,7.5
+Guatemala,Latin America & the Caribbean,6.87,7.48
+Guatemala,Latin America & the Caribbean,6.9,7.5
+Guatemala,Latin America & the Caribbean,6.96,7.08
+Guatemala,Latin America & the Caribbean,7.21,7.5
+Guatemala,Latin America & the Caribbean,7.18,7.92
+Guatemala,Latin America & the Caribbean,7.19,7.92
+Guinea,Sub-Saharan Africa,5.32,9.0
+Guinea,Sub-Saharan Africa,5.19,9.0
+Guinea,Sub-Saharan Africa,5.33,9.0
+Guinea,Sub-Saharan Africa,5.24,8.98
+Guinea,Sub-Saharan Africa,5.22,9.0
+Guinea,Sub-Saharan Africa,5.88,9.0
+Guinea-Bissau,Sub-Saharan Africa,6.84,9.1
+Guinea-Bissau,Sub-Saharan Africa,6.72,9.1
+Guinea-Bissau,Sub-Saharan Africa,6.82,8.93
+Guinea-Bissau,Sub-Saharan Africa,6.89,8.98
+Guinea-Bissau,Sub-Saharan Africa,6.7,8.08
+Guinea-Bissau,Sub-Saharan Africa,6.12,8.43
+Guinea-Bissau,Sub-Saharan Africa,5.67,8.02
+Guinea-Bissau,Sub-Saharan Africa,6.09,8.05
+Guinea-Bissau,Sub-Saharan Africa,6.46,8.05
+Guinea-Bissau,Sub-Saharan Africa,6.5,8.02
+Guyana,Latin America & the Caribbean,7.31,8.63
+Guyana,Latin America & the Caribbean,7.33,8.6
+Guyana,Latin America & the Caribbean,7.17,8.37
+Guyana,Latin America & the Caribbean,7.09,8.28
+Guyana,Latin America & the Caribbean,7.01,8.28
+Guyana,Latin America & the Caribbean,7.54,8.22
+Guyana,Latin America & the Caribbean,7.59,8.35
+Guyana,Latin America & the Caribbean,7.72,8.43
+Guyana,Latin America & the Caribbean,7.19,8.33
+Guyana,Latin America & the Caribbean,7.29,8.53
+Guyana,Latin America & the Caribbean,6.91,6.38
+Haiti,Latin America & the Caribbean,6.78,8.72
+Haiti,Latin America & the Caribbean,6.66,8.53
+Haiti,Latin America & the Caribbean,6.92,8.5
+Haiti,Latin America & the Caribbean,6.9,8.5
+Haiti,Latin America & the Caribbean,7.1,8.5
+Haiti,Latin America & the Caribbean,6.87,8.5
+Haiti,Latin America & the Caribbean,6.84,8.5
+Haiti,Latin America & the Caribbean,7.03,7.73
+Haiti,Latin America & the Caribbean,7.44,8.72
+Haiti,Latin America & the Caribbean,7.51,8.77
+Haiti,Latin America & the Caribbean,7.59,9.23
+Honduras,Latin America & the Caribbean,6.59,7.92
+Honduras,Latin America & the Caribbean,6.43,7.9
+Honduras,Latin America & the Caribbean,6.2,7.9
+Honduras,Latin America & the Caribbean,6.22,7.92
+Honduras,Latin America & the Caribbean,6.46,7.92
+Honduras,Latin America & the Caribbean,6.25,6.67
+Honduras,Latin America & the Caribbean,6.53,7.5
+Honduras,Latin America & the Caribbean,6.36,6.65
+Honduras,Latin America & the Caribbean,6.88,6.67
+Honduras,Latin America & the Caribbean,6.95,7.07
+Honduras,Latin America & the Caribbean,7.15,7.08
+Hungary,Eastern Europe,7.78,9.42
+Hungary,Eastern Europe,7.82,9.42
+Hungary,Eastern Europe,8.16,9.45
+Hungary,Eastern Europe,8.32,9.43
+Hungary,Eastern Europe,8.46,9.48
+Hungary,Eastern Europe,8.41,9.48
+Hungary,Eastern Europe,8.41,9.5
+Hungary,Eastern Europe,8.62,9.48
+Hungary,Eastern Europe,8.73,9.48
+Hungary,Eastern Europe,8.84,9.47
+Hungary,Eastern Europe,8.83,9.47
+Iceland,Western Europe,9.06,9.93
+Iceland,Western Europe,9.02,9.93
+Iceland,Western Europe,8.99,9.98
+Iceland,Western Europe,9.05,9.93
+Iceland,Western Europe,9.15,9.97
+Iceland,Western Europe,9.18,9.98
+Iceland,Western Europe,9.23,9.98
+Iceland,Western Europe,9.26,9.93
+Iceland,Western Europe,9.24,9.97
+Iceland,Western Europe,9.29,9.98
+Iceland,Western Europe,9.32,9.98
+India,South Asia,6.3,8.07
+India,South Asia,6.36,8.05
+India,South Asia,6.38,8.05
+India,South Asia,6.31,7.22
+India,South Asia,6.38,7.2
+India,South Asia,6.6,7.22
+India,South Asia,6.61,7.2
+India,South Asia,6.87,7.2
+India,South Asia,6.71,7.15
+India,South Asia,6.71,7.13
+India,South Asia,6.7,7.12
+Indonesia,South Asia,6.74,9.52
+Indonesia,South Asia,6.73,9.55
+Indonesia,South Asia,6.92,9.55
+Indonesia,South Asia,6.79,9.55
+Indonesia,South Asia,6.6,8.72
+Indonesia,South Asia,6.75,9.55
+Indonesia,South Asia,6.71,9.55
+Indonesia,South Asia,6.8,9.53
+Indonesia,South Asia,7.18,9.55
+Indonesia,South Asia,7.22,9.53
+Indonesia,South Asia,7.24,9.55
+"Iran, Islamic Rep.",Middle East & North Africa,4.26,7.53
+"Iran, Islamic Rep.",Middle East & North Africa,4.44,7.67
+"Iran, Islamic Rep.",Middle East & North Africa,4.45,6.9
+"Iran, Islamic Rep.",Middle East & North Africa,4.4,6.88
+"Iran, Islamic Rep.",Middle East & North Africa,4.08,6.9
+"Iran, Islamic Rep.",Middle East & North Africa,3.85,6.87
+"Iran, Islamic Rep.",Middle East & North Africa,3.89,6.88
+"Iran, Islamic Rep.",Middle East & North Africa,4.02,6.72
+"Iran, Islamic Rep.",Middle East & North Africa,4.34,6.55
+"Iran, Islamic Rep.",Middle East & North Africa,4.44,6.68
+"Iran, Islamic Rep.",Middle East & North Africa,4.73,7.92
+Iraq,Middle East & North Africa,4.18,2.55
+Iraq,Middle East & North Africa,3.59,1.02
+Iraq,Middle East & North Africa,3.36,1.02
+Ireland,Western Europe,9.11,9.52
+Ireland,Western Europe,9.15,9.52
+Ireland,Western Europe,9.13,9.5
+Ireland,Western Europe,9.25,9.55
+Ireland,Western Europe,9.03,9.52
+Ireland,Western Europe,9.01,9.47
+Ireland,Western Europe,9.01,9.5
+Ireland,Western Europe,9.09,9.5
+Ireland,Western Europe,9.07,9.43
+Ireland,Western Europe,9.05,9.5
+Ireland,Western Europe,9.04,9.52
+Israel,Middle East & North Africa,7.26,7.77
+Israel,Middle East & North Africa,7.53,9.02
+Israel,Middle East & North Africa,8.09,8.3
+Israel,Middle East & North Africa,7.68,8.48
+Israel,Middle East & North Africa,7.24,6.03
+Israel,Middle East & North Africa,7.69,9.02
+Israel,Middle East & North Africa,7.66,8.12
+Israel,Middle East & North Africa,7.79,8.15
+Israel,Middle East & North Africa,7.92,8.73
+Israel,Middle East & North Africa,7.69,7.2
+Israel,Middle East & North Africa,7.41,5.6
+Italy,Western Europe,8.72,9.97
+Italy,Western Europe,8.71,9.95
+Italy,Western Europe,8.67,9.95
+Italy,Western Europe,8.7,9.95
+Italy,Western Europe,8.74,9.95
+Italy,Western Europe,8.75,9.95
+Italy,Western Europe,8.72,9.93
+Italy,Western Europe,8.73,9.93
+Italy,Western Europe,8.76,9.93
+Italy,Western Europe,8.79,9.93
+Italy,Western Europe,8.79,9.93
+Jamaica,Latin America & the Caribbean,7.19,7.92
+Jamaica,Latin America & the Caribbean,7.2,7.92
+Jamaica,Latin America & the Caribbean,7.1,7.92
+Jamaica,Latin America & the Caribbean,7.07,7.92
+Jamaica,Latin America & the Caribbean,7.23,7.48
+Jamaica,Latin America & the Caribbean,7.11,7.5
+Jamaica,Latin America & the Caribbean,7.08,7.5
+Jamaica,Latin America & the Caribbean,7.1,7.5
+Jamaica,Latin America & the Caribbean,7.25,7.5
+Jamaica,Latin America & the Caribbean,7.3,7.92
+Jamaica,Latin America & the Caribbean,7.27,7.5
+Japan,East Asia,9.1,9.98
+Japan,East Asia,9.01,9.98
+Japan,East Asia,9.06,9.98
+Japan,East Asia,9.03,9.98
+Japan,East Asia,9.16,9.98
+Japan,East Asia,9.08,9.98
+Japan,East Asia,9.1,9.98
+Japan,East Asia,9.13,9.98
+Japan,East Asia,9.12,9.98
+Japan,East Asia,9.16,9.97
+Japan,East Asia,9.12,9.97
+Jordan,Middle East & North Africa,6.21,9.45
+Jordan,Middle East & North Africa,6.25,9.47
+Jordan,Middle East & North Africa,6.52,8.85
+Jordan,Middle East & North Africa,6.44,9.38
+Jordan,Middle East & North Africa,6.27,9.42
+Jordan,Middle East & North Africa,6.49,9.88
+Jordan,Middle East & North Africa,6.33,9.8
+Jordan,Middle East & North Africa,6.41,9.05
+Jordan,Middle East & North Africa,6.4,9.88
+Jordan,Middle East & North Africa,6.46,9.9
+Jordan,Middle East & North Africa,6.4,9.88
+Kazakhstan,Caucasus & Central Asia,6.85,8.83
+Kazakhstan,Caucasus & Central Asia,6.65,8.83
+Kazakhstan,Caucasus & Central Asia,6.53,8.8
+Kazakhstan,Caucasus & Central Asia,6.43,8.85
+Kazakhstan,Caucasus & Central Asia,6.34,8.82
+Kazakhstan,Caucasus & Central Asia,6.39,8.73
+Kazakhstan,Caucasus & Central Asia,6.56,9.08
+Kazakhstan,Caucasus & Central Asia,6.4,7.32
+Kazakhstan,Caucasus & Central Asia,6.74,9.02
+Kazakhstan,Caucasus & Central Asia,6.67,8.85
+Kazakhstan,Caucasus & Central Asia,6.71,8.83
+Kenya,Sub-Saharan Africa,6.66,7.8
+Kenya,Sub-Saharan Africa,6.68,7.7
+Kenya,Sub-Saharan Africa,6.88,7.83
+Kenya,Sub-Saharan Africa,6.37,6.67
+Kenya,Sub-Saharan Africa,6.29,7.32
+Kenya,Sub-Saharan Africa,6.08,7.38
+Kenya,Sub-Saharan Africa,6.1,7.1
+Kenya,Sub-Saharan Africa,6.39,8.27
+Kenya,Sub-Saharan Africa,6.37,8.27
+Kenya,Sub-Saharan Africa,6.31,7.6
+Kenya,Sub-Saharan Africa,6.35,7.57
+"Korea, Rep.",East Asia,8.85,9.55
+"Korea, Rep.",East Asia,8.78,9.55
+"Korea, Rep.",East Asia,8.84,9.53
+"Korea, Rep.",East Asia,8.7,9.53
+"Korea, Rep.",East Asia,8.81,9.53
+"Korea, Rep.",East Asia,8.76,9.53
+"Korea, Rep.",East Asia,8.76,9.53
+"Korea, Rep.",East Asia,8.73,9.53
+"Korea, Rep.",East Asia,8.75,9.53
+"Korea, Rep.",East Asia,8.7,9.53
+"Korea, Rep.",East Asia,8.76,9.53
+Kuwait,Middle East & North Africa,6.18,9.47
+Kuwait,Middle East & North Africa,6.15,9.47
+Kuwait,Middle East & North Africa,5.89,9.45
+Kuwait,Middle East & North Africa,5.51,7.4
+Kuwait,Middle East & North Africa,5.7,8.63
+Kuwait,Middle East & North Africa,5.86,9.47
+Kuwait,Middle East & North Africa,5.85,9.47
+Kuwait,Middle East & North Africa,5.98,9.47
+Kuwait,Middle East & North Africa,6.17,9.45
+Kuwait,Middle East & North Africa,6.22,9.47
+Kuwait,Middle East & North Africa,6.09,9.9
+Kyrgyz Republic,Caucasus & Central Asia,7.1,8.6
+Kyrgyz Republic,Caucasus & Central Asia,6.87,8.47
+Kyrgyz Republic,Caucasus & Central Asia,6.5,8.4
+Kyrgyz Republic,Caucasus & Central Asia,6.1,7.55
+Kyrgyz Republic,Caucasus & Central Asia,6.14,6.83
+Kyrgyz Republic,Caucasus & Central Asia,6.14,6.85
+Kyrgyz Republic,Caucasus & Central Asia,6.11,6.72
+Kyrgyz Republic,Caucasus & Central Asia,6.07,6.48
+Kyrgyz Republic,Caucasus & Central Asia,5.96,7.42
+Kyrgyz Republic,Caucasus & Central Asia,6.28,8.23
+Lao PDR,South Asia,5.7,9.12
+Lao PDR,South Asia,5.62,9.12
+Lao PDR,South Asia,5.68,9.03
+Lao PDR,South Asia,5.71,8.7
+Lao PDR,South Asia,5.69,8.28
+Latvia,Eastern Europe,8.78,9.7
+Latvia,Eastern Europe,8.81,9.78
+Latvia,Eastern Europe,8.81,9.78
+Latvia,Eastern Europe,8.77,9.78
+Latvia,Eastern Europe,8.69,9.78
+Latvia,Eastern Europe,8.72,9.83
+Latvia,Eastern Europe,8.69,9.77
+Latvia,Eastern Europe,8.75,9.78
+Latvia,Eastern Europe,8.7,9.78
+Latvia,Eastern Europe,8.52,9.25
+Latvia,Eastern Europe,8.65,9.28
+Lebanon,Middle East & North Africa,6.52,7.73
+Lebanon,Middle East & North Africa,6.5,6.6
+Lebanon,Middle East & North Africa,6.49,7.83
+Lebanon,Middle East & North Africa,5.97,5.05
+Lebanon,Middle East & North Africa,5.81,3.58
+Lebanon,Middle East & North Africa,6.17,5.12
+Lebanon,Middle East & North Africa,6.6,7.77
+Lebanon,Middle East & North Africa,6.45,7.48
+Lebanon,Middle East & North Africa,6.34,8.42
+Lesotho,Sub-Saharan Africa,6.55,7.5
+Lesotho,Sub-Saharan Africa,6.65,7.92
+Lesotho,Sub-Saharan Africa,6.72,7.08
+Lesotho,Sub-Saharan Africa,6.8,7.85
+Lesotho,Sub-Saharan Africa,6.91,7.5
+Lesotho,Sub-Saharan Africa,6.74,7.92
+Lesotho,Sub-Saharan Africa,6.36,7.92
+Lesotho,Sub-Saharan Africa,6.45,7.92
+Lesotho,Sub-Saharan Africa,6.18,7.92
+Lesotho,Sub-Saharan Africa,6.19,7.92
+Liberia,Sub-Saharan Africa,6.51,9.37
+Liberia,Sub-Saharan Africa,6.46,9.37
+Liberia,Sub-Saharan Africa,6.38,9.37
+Liberia,Sub-Saharan Africa,6.36,9.37
+Liberia,Sub-Saharan Africa,6.44,9.37
+Libya,Middle East & North Africa,4.93,4.47
+Libya,Middle East & North Africa,5.1,3.93
+Libya,Middle East & North Africa,4.35,3.17
+Libya,Middle East & North Africa,4.26,2.33
+Libya,Middle East & North Africa,4.43,2.33
+Libya,Middle East & North Africa,4.97,4.42
+Lithuania,Eastern Europe,8.64,9.7
+Lithuania,Eastern Europe,8.65,9.7
+Lithuania,Eastern Europe,8.7,9.65
+Lithuania,Eastern Europe,8.76,9.62
+Lithuania,Eastern Europe,8.66,9.65
+Lithuania,Eastern Europe,8.6,9.57
+Lithuania,Eastern Europe,8.64,9.55
+Lithuania,Eastern Europe,8.68,9.55
+Lithuania,Eastern Europe,8.63,9.53
+Lithuania,Eastern Europe,8.62,9.47
+Lithuania,Eastern Europe,8.53,9.38
+Luxembourg,Western Europe,9.13,9.47
+Madagascar,Sub-Saharan Africa,6.88,9.07
+Madagascar,Sub-Saharan Africa,6.83,9.07
+Madagascar,Sub-Saharan Africa,7.09,8.95
+Madagascar,Sub-Saharan Africa,7.12,9.07
+Madagascar,Sub-Saharan Africa,7.28,9.02
+Madagascar,Sub-Saharan Africa,6.93,9.07
+Madagascar,Sub-Saharan Africa,6.46,8.55
+Madagascar,Sub-Saharan Africa,6.82,8.55
+Madagascar,Sub-Saharan Africa,7.15,7.72
+Madagascar,Sub-Saharan Africa,7.19,8.13
+Madagascar,Sub-Saharan Africa,7.47,8.13
+Malawi,Sub-Saharan Africa,7.35,9.47
+Malawi,Sub-Saharan Africa,7.32,9.47
+Malawi,Sub-Saharan Africa,7.44,9.47
+Malawi,Sub-Saharan Africa,7.47,9.47
+Malawi,Sub-Saharan Africa,7.42,9.47
+Malawi,Sub-Saharan Africa,7.4,9.47
+Malawi,Sub-Saharan Africa,7.56,9.47
+Malawi,Sub-Saharan Africa,7.58,9.43
+Malawi,Sub-Saharan Africa,7.29,9.35
+Malawi,Sub-Saharan Africa,7.29,9.43
+Malawi,Sub-Saharan Africa,7.21,9.22
+Malaysia,South Asia,6.21,9.03
+Malaysia,South Asia,5.97,9.03
+Malaysia,South Asia,5.98,9.83
+Malaysia,South Asia,6.03,9.87
+Malaysia,South Asia,5.78,9.87
+Malaysia,South Asia,5.88,9.73
+Malaysia,South Asia,6.12,9.87
+Malaysia,South Asia,6.31,9.88
+Malaysia,South Asia,6.26,9.87
+Malaysia,South Asia,6.47,9.87
+Malaysia,South Asia,6.26,9.85
+Mali,Sub-Saharan Africa,5.9,2.87
+Mali,Sub-Saharan Africa,6.05,3.62
+Mali,Sub-Saharan Africa,5.98,5.93
+Mali,Sub-Saharan Africa,5.9,5.33
+Mali,Sub-Saharan Africa,5.83,5.72
+Mali,Sub-Saharan Africa,5.45,4.77
+Mali,Sub-Saharan Africa,5.62,7.07
+Mali,Sub-Saharan Africa,5.9,7.92
+Mali,Sub-Saharan Africa,6.44,7.92
+Mali,Sub-Saharan Africa,6.27,7.33
+Mali,Sub-Saharan Africa,6.26,7.2
+Mauritania,Sub-Saharan Africa,4.56,8.48
+Mauritania,Sub-Saharan Africa,4.7,8.5
+Mauritania,Sub-Saharan Africa,4.58,8.5
+Mauritania,Sub-Saharan Africa,4.83,7.67
+Mauritania,Sub-Saharan Africa,4.9,7.67
+Mauritania,Sub-Saharan Africa,4.8,8.5
+Mauritania,Sub-Saharan Africa,4.83,7.62
+Mauritania,Sub-Saharan Africa,5.05,7.18
+Mauritania,Sub-Saharan Africa,5.14,7.98
+Mauritania,Sub-Saharan Africa,5.19,7.97
+Mauritania,Sub-Saharan Africa,5.07,7.83
+Mauritius,Sub-Saharan Africa,6.89,9.8
+Mauritius,Sub-Saharan Africa,6.99,9.88
+Mauritius,Sub-Saharan Africa,7.45,9.88
+Mauritius,Sub-Saharan Africa,7.53,9.88
+Mauritius,Sub-Saharan Africa,7.94,9.9
+Mauritius,Sub-Saharan Africa,8.18,9.82
+Mauritius,Sub-Saharan Africa,8.47,9.85
+Mauritius,Sub-Saharan Africa,8.48,9.82
+Mauritius,Sub-Saharan Africa,8.41,9.82
+Mauritius,Sub-Saharan Africa,8.33,9.63
+Mexico,Latin America & the Caribbean,6.49,6.22
+Mexico,Latin America & the Caribbean,6.48,6.25
+Mexico,Latin America & the Caribbean,6.87,6.63
+Mexico,Latin America & the Caribbean,6.95,6.82
+Mexico,Latin America & the Caribbean,6.84,6.85
+Mexico,Latin America & the Caribbean,6.82,7.45
+Mexico,Latin America & the Caribbean,6.84,6.48
+Mexico,Latin America & the Caribbean,6.98,6.4
+Mexico,Latin America & the Caribbean,7.03,7.28
+Mexico,Latin America & the Caribbean,7.3,7.6
+Mexico,Latin America & the Caribbean,7.39,7.88
+Moldova,Eastern Europe,7.37,8.9
+Moldova,Eastern Europe,7.43,8.95
+Moldova,Eastern Europe,7.35,8.95
+Moldova,Eastern Europe,7.21,8.95
+Moldova,Eastern Europe,7.26,8.95
+Moldova,Eastern Europe,7.29,8.88
+Moldova,Eastern Europe,7.4,8.8
+Moldova,Eastern Europe,7.41,8.67
+Moldova,Eastern Europe,7.45,8.73
+Moldova,Eastern Europe,7.4,7.57
+Moldova,Eastern Europe,7.28,8.78
+Mongolia,East Asia,7.79,9.58
+Mongolia,East Asia,7.81,9.58
+Mongolia,East Asia,8.1,9.62
+Mongolia,East Asia,8.04,8.75
+Mongolia,East Asia,7.99,9.52
+Mongolia,East Asia,8.23,9.52
+Mongolia,East Asia,8.27,9.12
+Mongolia,East Asia,8.23,8.93
+Mongolia,East Asia,8.09,9.0
+Mongolia,East Asia,8.06,8.62
+Mongolia,East Asia,8.06,8.63
+Montenegro,Eastern Europe,7.97,9.3
+Montenegro,Eastern Europe,7.92,9.42
+Montenegro,Eastern Europe,7.67,9.28
+Montenegro,Eastern Europe,8.06,9.4
+Montenegro,Eastern Europe,8.15,9.37
+Montenegro,Eastern Europe,8.15,9.48
+Montenegro,Eastern Europe,8.04,9.4
+Montenegro,Eastern Europe,8.1,9.37
+Montenegro,Eastern Europe,8.14,9.42
+Montenegro,Eastern Europe,8.04,9.37
+Montenegro,Eastern Europe,8.06,9.33
+Morocco,Middle East & North Africa,5.86,9.07
+Morocco,Middle East & North Africa,5.74,9.03
+Morocco,Middle East & North Africa,6.02,9.05
+Morocco,Middle East & North Africa,5.82,9.08
+Morocco,Middle East & North Africa,5.81,8.27
+Morocco,Middle East & North Africa,5.99,9.08
+Morocco,Middle East & North Africa,5.98,9.08
+Morocco,Middle East & North Africa,5.94,8.2
+Morocco,Middle East & North Africa,6.15,9.07
+Morocco,Middle East & North Africa,6.19,9.08
+Morocco,Middle East & North Africa,6.13,9.08
+Mozambique,Sub-Saharan Africa,7.34,8.53
+Mozambique,Sub-Saharan Africa,7.4,8.88
+Mozambique,Sub-Saharan Africa,6.99,7.83
+Mozambique,Sub-Saharan Africa,7.22,8.92
+Mozambique,Sub-Saharan Africa,6.84,8.82
+Mozambique,Sub-Saharan Africa,6.58,8.28
+Mozambique,Sub-Saharan Africa,6.51,8.93
+Mozambique,Sub-Saharan Africa,6.62,9.35
+Mozambique,Sub-Saharan Africa,6.58,8.93
+Mozambique,Sub-Saharan Africa,6.46,8.93
+Mozambique,Sub-Saharan Africa,6.53,8.88
+Myanmar,South Asia,5.08,7.58
+Myanmar,South Asia,5.12,7.42
+Myanmar,South Asia,5.39,7.95
+Myanmar,South Asia,5.32,7.35
+Myanmar,South Asia,5.56,7.52
+Myanmar,South Asia,5.2,6.6
+Myanmar,South Asia,5.33,6.13
+Myanmar,South Asia,5.42,7.0
+Myanmar,South Asia,5.55,6.75
+Myanmar,South Asia,5.71,6.68
+Myanmar,South Asia,5.47,6.88
+Namibia,Sub-Saharan Africa,7.32,8.4
+Namibia,Sub-Saharan Africa,7.23,8.43
+Namibia,Sub-Saharan Africa,7.5,8.43
+Namibia,Sub-Saharan Africa,7.44,8.43
+Namibia,Sub-Saharan Africa,7.4,8.43
+Namibia,Sub-Saharan Africa,7.44,8.43
+Namibia,Sub-Saharan Africa,7.44,8.43
+Namibia,Sub-Saharan Africa,7.58,8.65
+Namibia,Sub-Saharan Africa,7.44,8.62
+Namibia,Sub-Saharan Africa,7.36,8.37
+Namibia,Sub-Saharan Africa,7.43,8.47
+Nepal,South Asia,7.03,9.4
+Nepal,South Asia,7.11,9.33
+Nepal,South Asia,7.25,8.57
+Nepal,South Asia,7.53,9.42
+Nepal,South Asia,7.69,9.45
+Nepal,South Asia,7.54,9.32
+Nepal,South Asia,7.67,9.38
+Nepal,South Asia,7.87,9.28
+Nepal,South Asia,7.83,9.32
+Nepal,South Asia,7.95,9.18
+Nepal,South Asia,7.83,8.87
+Netherlands,Western Europe,9.14,9.95
+Netherlands,Western Europe,9.18,9.95
+Netherlands,Western Europe,9.27,9.97
+Netherlands,Western Europe,9.24,9.97
+Netherlands,Western Europe,9.15,9.53
+Netherlands,Western Europe,9.11,9.53
+Netherlands,Western Europe,9.1,9.53
+Netherlands,Western Europe,9.16,9.53
+Netherlands,Western Europe,9.16,9.53
+Netherlands,Western Europe,9.18,9.9
+Netherlands,Western Europe,9.19,9.52
+New Zealand,Oceania,9.21,9.95
+New Zealand,Oceania,9.24,9.95
+New Zealand,Oceania,9.2,9.93
+New Zealand,Oceania,9.19,9.93
+New Zealand,Oceania,9.31,9.93
+New Zealand,Oceania,9.28,9.93
+New Zealand,Oceania,9.3,9.93
+New Zealand,Oceania,9.39,9.93
+New Zealand,Oceania,9.39,9.93
+New Zealand,Oceania,9.33,9.9
+New Zealand,Oceania,9.38,9.92
+Nicaragua,Latin America & the Caribbean,6.02,8.13
+Nicaragua,Latin America & the Caribbean,6.63,9.1
+Nicaragua,Latin America & the Caribbean,6.34,9.1
+Nicaragua,Latin America & the Caribbean,6.28,9.02
+Nicaragua,Latin America & the Caribbean,6.68,8.8
+Nicaragua,Latin America & the Caribbean,6.95,8.92
+Nicaragua,Latin America & the Caribbean,7.03,8.82
+Nicaragua,Latin America & the Caribbean,6.98,8.73
+Nicaragua,Latin America & the Caribbean,7.42,8.67
+Nicaragua,Latin America & the Caribbean,7.36,8.63
+Nicaragua,Latin America & the Caribbean,7.42,8.7
+Niger,Sub-Saharan Africa,6.09,7.98
+Niger,Sub-Saharan Africa,6.11,7.42
+Niger,Sub-Saharan Africa,5.83,7.0
+Niger,Sub-Saharan Africa,5.9,6.1
+Niger,Sub-Saharan Africa,6.02,8.4
+Niger,Sub-Saharan Africa,6.49,8.72
+Niger,Sub-Saharan Africa,6.46,8.87
+Niger,Sub-Saharan Africa,6.44,8.82
+Niger,Sub-Saharan Africa,6.99,8.82
+Niger,Sub-Saharan Africa,6.82,8.78
+Nigeria,Sub-Saharan Africa,5.16,5.85
+Nigeria,Sub-Saharan Africa,5.72,6.83
+Nigeria,Sub-Saharan Africa,5.7,5.68
+Nigeria,Sub-Saharan Africa,5.29,2.85
+Nigeria,Sub-Saharan Africa,5.35,2.83
+Nigeria,Sub-Saharan Africa,5.6,5.98
+Nigeria,Sub-Saharan Africa,5.51,6.23
+Nigeria,Sub-Saharan Africa,5.2,5.97
+Nigeria,Sub-Saharan Africa,5.49,6.3
+Nigeria,Sub-Saharan Africa,5.71,7.35
+Nigeria,Sub-Saharan Africa,6.05,8.42
+North Macedonia,Eastern Europe,7.65,9.08
+North Macedonia,Eastern Europe,7.58,9.07
+North Macedonia,Eastern Europe,7.36,9.1
+North Macedonia,Eastern Europe,7.29,9.05
+North Macedonia,Eastern Europe,6.91,9.38
+North Macedonia,Eastern Europe,7.34,9.52
+North Macedonia,Eastern Europe,7.72,9.35
+North Macedonia,Eastern Europe,8.15,9.48
+North Macedonia,Eastern Europe,7.91,9.45
+North Macedonia,Eastern Europe,7.87,9.45
+North Macedonia,Eastern Europe,7.96,9.23
+Norway,Western Europe,9.29,9.92
+Norway,Western Europe,9.29,9.97
+Norway,Western Europe,9.37,9.97
+Norway,Western Europe,9.42,9.97
+Norway,Western Europe,9.53,9.97
+Norway,Western Europe,9.53,9.93
+Norway,Western Europe,9.59,9.97
+Norway,Western Europe,9.39,8.52
+Norway,Western Europe,9.55,9.97
+Norway,Western Europe,9.47,9.97
+Norway,Western Europe,9.54,9.95
+Oman,Middle East & North Africa,5.26,9.57
+Oman,Middle East & North Africa,5.21,9.55
+Oman,Middle East & North Africa,5.32,9.55
+Oman,Middle East & North Africa,5.53,9.55
+Oman,Middle East & North Africa,5.53,8.73
+Oman,Middle East & North Africa,5.57,8.58
+Oman,Middle East & North Africa,5.59,8.67
+Oman,Middle East & North Africa,5.62,8.68
+Oman,Middle East & North Africa,5.49,9.48
+Oman,Middle East & North Africa,5.62,9.92
+Oman,Middle East & North Africa,5.59,9.88
+Pakistan,South Asia,5.21,6.35
+Pakistan,South Asia,5.31,5.98
+Pakistan,South Asia,5.12,5.93
+Pakistan,South Asia,5.29,5.35
+Pakistan,South Asia,5.02,4.35
+Pakistan,South Asia,4.72,4.07
+Pakistan,South Asia,4.76,4.03
+Pakistan,South Asia,4.92,5.08
+Pakistan,South Asia,5.01,3.78
+Pakistan,South Asia,5.17,3.75
+Pakistan,South Asia,4.98,4.75
+Panama,Latin America & the Caribbean,7.93,9.37
+Panama,Latin America & the Caribbean,7.86,9.35
+Panama,Latin America & the Caribbean,7.78,9.33
+Panama,Latin America & the Caribbean,7.77,9.2
+Panama,Latin America & the Caribbean,7.76,8.97
+Panama,Latin America & the Caribbean,7.67,8.85
+Panama,Latin America & the Caribbean,7.66,8.87
+Panama,Latin America & the Caribbean,7.65,9.02
+Panama,Latin America & the Caribbean,7.75,8.32
+Panama,Latin America & the Caribbean,7.82,8.93
+Panama,Latin America & the Caribbean,7.82,9.07
+Papua New Guinea,Oceania,7.05,8.92
+Papua New Guinea,Oceania,6.98,8.9
+Papua New Guinea,Oceania,7.25,8.92
+Papua New Guinea,Oceania,7.21,8.92
+Papua New Guinea,Oceania,7.13,8.92
+Papua New Guinea,Oceania,7.06,8.92
+Papua New Guinea,Oceania,6.93,8.92
+Papua New Guinea,Oceania,7.04,8.92
+Papua New Guinea,Oceania,7.42,8.92
+Papua New Guinea,Oceania,7.3,8.92
+Papua New Guinea,Oceania,7.5,9.4
+Paraguay,Latin America & the Caribbean,7.14,8.68
+Paraguay,Latin America & the Caribbean,6.99,8.53
+Paraguay,Latin America & the Caribbean,7.18,8.47
+Paraguay,Latin America & the Caribbean,7.03,8.43
+Paraguay,Latin America & the Caribbean,7.11,8.55
+Paraguay,Latin America & the Caribbean,7.39,7.53
+Paraguay,Latin America & the Caribbean,7.52,8.45
+Paraguay,Latin America & the Caribbean,7.73,8.45
+Paraguay,Latin America & the Caribbean,7.62,8.32
+Paraguay,Latin America & the Caribbean,7.41,8.27
+Paraguay,Latin America & the Caribbean,7.51,8.67
+Peru,Latin America & the Caribbean,7.6,9.05
+Peru,Latin America & the Caribbean,7.6,9.05
+Peru,Latin America & the Caribbean,7.62,9.05
+Peru,Latin America & the Caribbean,7.64,9.08
+Peru,Latin America & the Caribbean,7.52,9.12
+Peru,Latin America & the Caribbean,7.64,9.13
+Peru,Latin America & the Caribbean,7.85,9.12
+Peru,Latin America & the Caribbean,7.98,9.22
+Peru,Latin America & the Caribbean,7.76,9.17
+Peru,Latin America & the Caribbean,7.73,9.07
+Peru,Latin America & the Caribbean,7.65,8.3
+Philippines,South Asia,6.37,6.87
+Philippines,South Asia,6.33,6.0
+Philippines,South Asia,6.59,7.27
+Philippines,South Asia,6.75,6.47
+Philippines,South Asia,6.44,5.67
+Philippines,South Asia,6.35,6.53
+Philippines,South Asia,6.8,6.9
+Philippines,South Asia,6.92,6.97
+Philippines,South Asia,7.05,6.9
+Philippines,South Asia,6.9,6.52
+Philippines,South Asia,7.13,6.92
+Poland,Eastern Europe,8.39,9.53
+Poland,Eastern Europe,8.36,9.53
+Poland,Eastern Europe,8.42,9.53
+Poland,Eastern Europe,8.79,9.95
+Poland,Eastern Europe,9.01,9.95
+Poland,Eastern Europe,8.9,9.95
+Poland,Eastern Europe,8.92,9.93
+Poland,Eastern Europe,9.1,9.92
+Poland,Eastern Europe,9.09,9.92
+Poland,Eastern Europe,9.13,9.92
+Poland,Eastern Europe,9.11,9.92
+Portugal,Western Europe,8.94,9.95
+Portugal,Western Europe,9.05,9.95
+Portugal,Western Europe,9.01,9.95
+Portugal,Western Europe,9.02,9.93
+Portugal,Western Europe,9.05,9.93
+Portugal,Western Europe,8.89,9.92
+Portugal,Western Europe,8.94,9.92
+Portugal,Western Europe,8.98,9.93
+Portugal,Western Europe,8.98,9.92
+Portugal,Western Europe,8.9,9.92
+Portugal,Western Europe,8.97,9.92
+Qatar,Middle East & North Africa,5.26,9.97
+Qatar,Middle East & North Africa,5.25,9.97
+Qatar,Middle East & North Africa,5.28,9.97
+Qatar,Middle East & North Africa,5.51,9.95
+Qatar,Middle East & North Africa,5.48,9.13
+Qatar,Middle East & North Africa,5.76,9.97
+Qatar,Middle East & North Africa,5.82,9.98
+Qatar,Middle East & North Africa,5.38,8.9
+Qatar,Middle East & North Africa,5.33,9.98
+Romania,Eastern Europe,8.34,9.92
+Romania,Eastern Europe,8.38,9.9
+Romania,Eastern Europe,8.55,9.92
+Romania,Eastern Europe,8.58,9.9
+Romania,Eastern Europe,8.76,9.9
+Romania,Eastern Europe,8.64,9.88
+Romania,Eastern Europe,8.64,9.88
+Romania,Eastern Europe,8.68,9.88
+Romania,Eastern Europe,8.71,9.87
+Romania,Eastern Europe,8.68,9.87
+Romania,Eastern Europe,8.71,9.85
+Russian Federation,Eastern Europe,5.88,6.92
+Russian Federation,Eastern Europe,5.84,6.82
+Russian Federation,Eastern Europe,5.75,7.53
+Russian Federation,Eastern Europe,5.66,6.7
+Russian Federation,Eastern Europe,5.94,6.62
+Russian Federation,Eastern Europe,6.45,7.35
+Russian Federation,Eastern Europe,6.46,7.25
+Russian Federation,Eastern Europe,6.48,6.47
+Russian Federation,Eastern Europe,6.4,6.12
+Russian Federation,Eastern Europe,6.4,6.13
+Russian Federation,Eastern Europe,6.45,7.0
+Rwanda,Sub-Saharan Africa,6.54,8.4
+Rwanda,Sub-Saharan Africa,6.61,8.13
+Rwanda,Sub-Saharan Africa,6.71,7.57
+Rwanda,Sub-Saharan Africa,6.89,9.0
+Rwanda,Sub-Saharan Africa,6.65,7.2
+Rwanda,Sub-Saharan Africa,6.74,7.92
+Rwanda,Sub-Saharan Africa,6.62,6.75
+Rwanda,Sub-Saharan Africa,6.65,6.57
+Rwanda,Sub-Saharan Africa,6.72,5.87
+Rwanda,Sub-Saharan Africa,7.18,7.55
+Rwanda,Sub-Saharan Africa,7.01,9.47
+Saudi Arabia,Middle East & North Africa,4.26,8.57
+Saudi Arabia,Middle East & North Africa,4.29,8.55
+Saudi Arabia,Middle East & North Africa,4.39,8.17
+Saudi Arabia,Middle East & North Africa,4.33,7.98
+Saudi Arabia,Middle East & North Africa,4.43,7.35
+Saudi Arabia,Middle East & North Africa,4.39,9.05
+Saudi Arabia,Middle East & North Africa,4.26,8.22
+Saudi Arabia,Middle East & North Africa,4.23,7.38
+Saudi Arabia,Middle East & North Africa,4.66,9.1
+Senegal,Sub-Saharan Africa,7.05,9.1
+Senegal,Sub-Saharan Africa,6.73,8.67
+Senegal,Sub-Saharan Africa,6.64,8.67
+Senegal,Sub-Saharan Africa,6.54,8.65
+Senegal,Sub-Saharan Africa,6.5,8.63
+Senegal,Sub-Saharan Africa,6.61,8.63
+Senegal,Sub-Saharan Africa,6.35,8.02
+Senegal,Sub-Saharan Africa,6.37,8.4
+Senegal,Sub-Saharan Africa,6.59,8.17
+Senegal,Sub-Saharan Africa,6.7,8.97
+Senegal,Sub-Saharan Africa,6.64,8.9
+Serbia,Eastern Europe,7.62,9.4
+Serbia,Eastern Europe,7.63,9.52
+Serbia,Eastern Europe,7.68,9.48
+Serbia,Eastern Europe,7.79,9.5
+Serbia,Eastern Europe,7.89,9.5
+Serbia,Eastern Europe,7.93,9.48
+Serbia,Eastern Europe,7.89,9.48
+Serbia,Eastern Europe,7.58,9.48
+Serbia,Eastern Europe,7.62,9.47
+Serbia,Eastern Europe,7.98,9.45
+Serbia,Eastern Europe,8.0,9.47
+Sierra Leone,Sub-Saharan Africa,6.55,9.47
+Sierra Leone,Sub-Saharan Africa,6.51,9.47
+Sierra Leone,Sub-Saharan Africa,6.56,9.47
+Sierra Leone,Sub-Saharan Africa,6.96,9.47
+Sierra Leone,Sub-Saharan Africa,6.75,8.63
+Sierra Leone,Sub-Saharan Africa,6.55,9.47
+Sierra Leone,Sub-Saharan Africa,6.56,9.47
+Sierra Leone,Sub-Saharan Africa,6.45,9.4
+Sierra Leone,Sub-Saharan Africa,6.68,9.42
+Sierra Leone,Sub-Saharan Africa,6.64,9.42
+Singapore,South Asia,7.77,9.98
+Singapore,South Asia,7.75,9.98
+Singapore,South Asia,7.75,9.98
+Singapore,South Asia,7.73,9.98
+Singapore,South Asia,7.54,9.98
+Singapore,South Asia,7.46,9.98
+Singapore,South Asia,7.44,9.98
+Singapore,South Asia,7.49,9.98
+Singapore,South Asia,7.66,9.98
+Singapore,South Asia,7.76,9.97
+Singapore,South Asia,7.65,9.97
+Slovak Republic,Eastern Europe,8.26,9.5
+Slovak Republic,Eastern Europe,8.39,9.48
+Slovak Republic,Eastern Europe,8.49,9.52
+Slovak Republic,Eastern Europe,8.56,9.53
+Slovak Republic,Eastern Europe,8.63,9.5
+Slovak Republic,Eastern Europe,8.64,9.5
+Slovak Republic,Eastern Europe,8.68,9.5
+Slovak Republic,Eastern Europe,8.75,9.47
+Slovak Republic,Eastern Europe,8.75,9.48
+Slovak Republic,Eastern Europe,8.77,9.9
+Slovak Republic,Eastern Europe,8.82,9.9
+Slovenia,Eastern Europe,8.77,9.55
+Slovenia,Eastern Europe,8.73,9.52
+Slovenia,Eastern Europe,8.76,9.55
+Slovenia,Eastern Europe,8.84,9.52
+Slovenia,Eastern Europe,8.86,9.53
+Slovenia,Eastern Europe,8.85,9.55
+Slovenia,Eastern Europe,8.87,9.53
+Slovenia,Eastern Europe,8.83,9.53
+Slovenia,Eastern Europe,8.83,9.53
+Slovenia,Eastern Europe,8.84,9.53
+Slovenia,Eastern Europe,8.78,9.55
+South Africa,Sub-Saharan Africa,7.41,7.48
+South Africa,Sub-Saharan Africa,7.42,7.48
+South Africa,Sub-Saharan Africa,7.29,7.48
+South Africa,Sub-Saharan Africa,7.6,7.48
+South Africa,Sub-Saharan Africa,7.55,7.07
+South Africa,Sub-Saharan Africa,7.43,7.08
+South Africa,Sub-Saharan Africa,7.51,7.08
+South Africa,Sub-Saharan Africa,7.59,7.08
+South Africa,Sub-Saharan Africa,7.07,7.08
+South Africa,Sub-Saharan Africa,7.02,7.08
+South Africa,Sub-Saharan Africa,7.02,7.08
+Spain,Western Europe,8.67,9.55
+Spain,Western Europe,8.61,9.83
+Spain,Western Europe,8.67,9.95
+Spain,Western Europe,8.71,9.95
+Spain,Western Europe,8.84,9.95
+Spain,Western Europe,8.85,9.95
+Spain,Western Europe,8.95,9.95
+Spain,Western Europe,8.88,8.28
+Spain,Western Europe,8.93,8.28
+Spain,Western Europe,8.86,7.82
+Spain,Western Europe,8.88,7.8
+Sri Lanka,South Asia,6.56,8.17
+Sri Lanka,South Asia,6.53,8.18
+Sri Lanka,South Asia,6.53,9.0
+Sri Lanka,South Asia,6.27,8.17
+Sri Lanka,South Asia,5.74,8.05
+Sri Lanka,South Asia,5.86,8.1
+Sri Lanka,South Asia,5.54,7.28
+Sri Lanka,South Asia,5.77,7.27
+Sri Lanka,South Asia,6.11,8.08
+Sri Lanka,South Asia,5.48,3.38
+Sri Lanka,South Asia,5.06,1.92
+Sudan,Sub-Saharan Africa,3.81,6.25
+Sudan,Sub-Saharan Africa,3.85,6.28
+Sudan,Sub-Saharan Africa,3.72,5.47
+Sweden,Western Europe,9.46,9.93
+Sweden,Western Europe,9.42,9.8
+Sweden,Western Europe,9.35,9.93
+Sweden,Western Europe,9.33,9.88
+Sweden,Western Europe,9.29,9.92
+Sweden,Western Europe,9.3,9.93
+Sweden,Western Europe,9.32,9.95
+Sweden,Western Europe,9.32,9.95
+Sweden,Western Europe,9.32,9.93
+Sweden,Western Europe,9.32,9.93
+Sweden,Western Europe,9.37,9.93
+Switzerland,Western Europe,9.2,9.97
+Switzerland,Western Europe,9.2,9.97
+Switzerland,Western Europe,9.07,9.97
+Switzerland,Western Europe,9.13,9.95
+Switzerland,Western Europe,9.17,9.97
+Switzerland,Western Europe,9.09,9.95
+Switzerland,Western Europe,9.19,9.97
+Switzerland,Western Europe,9.19,9.95
+Switzerland,Western Europe,9.2,9.95
+Switzerland,Western Europe,9.18,9.95
+Switzerland,Western Europe,9.26,9.95
+Syrian Arab Republic,Middle East & North Africa,2.49,1.6
+Syrian Arab Republic,Middle East & North Africa,2.36,1.52
+Syrian Arab Republic,Middle East & North Africa,2.31,1.52
+Syrian Arab Republic,Middle East & North Africa,2.55,1.52
+Syrian Arab Republic,Middle East & North Africa,2.53,1.52
+Syrian Arab Republic,Middle East & North Africa,3.1,1.52
+Syrian Arab Republic,Middle East & North Africa,3.61,1.52
+Syrian Arab Republic,Middle East & North Africa,4.27,4.07
+Syrian Arab Republic,Middle East & North Africa,4.72,7.35
+Syrian Arab Republic,Middle East & North Africa,4.84,8.18
+Syrian Arab Republic,Middle East & North Africa,4.82,8.1
+Taiwan,East Asia,8.9,9.53
+Taiwan,East Asia,8.92,9.53
+Taiwan,East Asia,8.93,9.53
+Taiwan,East Asia,8.97,9.53
+Taiwan,East Asia,8.75,9.53
+Taiwan,East Asia,8.72,9.53
+Taiwan,East Asia,8.68,9.53
+Taiwan,East Asia,8.76,9.53
+Taiwan,East Asia,8.53,9.53
+Taiwan,East Asia,8.45,9.12
+Taiwan,East Asia,8.23,9.12
+Tajikistan,Caucasus & Central Asia,5.49,8.42
+Tajikistan,Caucasus & Central Asia,5.54,8.65
+Tajikistan,Caucasus & Central Asia,5.79,8.65
+Tajikistan,Caucasus & Central Asia,5.84,7.7
+Tajikistan,Caucasus & Central Asia,6.32,8.65
+Tajikistan,Caucasus & Central Asia,5.91,7.43
+Tajikistan,Caucasus & Central Asia,6.23,8.6
+Tajikistan,Caucasus & Central Asia,6.14,8.45
+Tajikistan,Caucasus & Central Asia,6.48,7.73
+Tanzania,Sub-Saharan Africa,5.82,8.3
+Tanzania,Sub-Saharan Africa,5.93,8.33
+Tanzania,Sub-Saharan Africa,6.2,9.17
+Tanzania,Sub-Saharan Africa,6.28,9.08
+Tanzania,Sub-Saharan Africa,6.51,9.05
+Tanzania,Sub-Saharan Africa,6.78,9.1
+Tanzania,Sub-Saharan Africa,6.68,8.2
+Tanzania,Sub-Saharan Africa,6.78,8.17
+Tanzania,Sub-Saharan Africa,6.53,9.02
+Tanzania,Sub-Saharan Africa,6.52,9.02
+Tanzania,Sub-Saharan Africa,6.53,9.02
+Thailand,South Asia,5.98,8.0
+Thailand,South Asia,5.9,7.9
+Thailand,South Asia,5.84,8.92
+Thailand,South Asia,6.11,8.57
+Thailand,South Asia,6.41,7.57
+Thailand,South Asia,6.74,8.2
+Thailand,South Asia,6.9,7.22
+Thailand,South Asia,7.3,7.55
+Thailand,South Asia,7.24,7.62
+Thailand,South Asia,7.31,7.4
+Thailand,South Asia,7.26,7.37
+Timor-Leste,South Asia,7.48,9.32
+Timor-Leste,South Asia,7.45,9.32
+Timor-Leste,South Asia,6.54,5.98
+Timor-Leste,South Asia,6.84,9.32
+Timor-Leste,South Asia,6.88,9.32
+Timor-Leste,South Asia,6.88,9.32
+Timor-Leste,South Asia,6.87,8.52
+Timor-Leste,South Asia,7.4,9.35
+Togo,Sub-Saharan Africa,6.01,8.57
+Togo,Sub-Saharan Africa,6.1,8.98
+Togo,Sub-Saharan Africa,6.54,8.98
+Togo,Sub-Saharan Africa,6.48,8.98
+Togo,Sub-Saharan Africa,6.64,8.98
+Togo,Sub-Saharan Africa,6.23,8.98
+Togo,Sub-Saharan Africa,5.91,8.95
+Togo,Sub-Saharan Africa,5.78,8.95
+Togo,Sub-Saharan Africa,5.79,8.95
+Trinidad and Tobago,Latin America & the Caribbean,7.0,7.92
+Trinidad and Tobago,Latin America & the Caribbean,6.82,7.92
+Trinidad and Tobago,Latin America & the Caribbean,6.77,7.92
+Trinidad and Tobago,Latin America & the Caribbean,6.86,7.92
+Trinidad and Tobago,Latin America & the Caribbean,6.82,7.92
+Trinidad and Tobago,Latin America & the Caribbean,6.81,7.8
+Trinidad and Tobago,Latin America & the Caribbean,7.09,7.92
+Trinidad and Tobago,Latin America & the Caribbean,7.12,7.5
+Trinidad and Tobago,Latin America & the Caribbean,6.95,7.92
+Trinidad and Tobago,Latin America & the Caribbean,7.03,7.92
+Trinidad and Tobago,Latin America & the Caribbean,7.0,7.92
+Tunisia,Middle East & North Africa,6.0,8.78
+Tunisia,Middle East & North Africa,6.03,8.93
+Tunisia,Middle East & North Africa,6.07,8.18
+Tunisia,Middle East & North Africa,6.35,8.12
+Tunisia,Middle East & North Africa,6.45,8.57
+Tunisia,Middle East & North Africa,6.32,8.33
+Tunisia,Middle East & North Africa,6.3,8.55
+Tunisia,Middle East & North Africa,6.03,8.95
+Tunisia,Middle East & North Africa,5.27,8.57
+Tunisia,Middle East & North Africa,5.4,9.42
+Tunisia,Middle East & North Africa,5.4,9.4
+Turkey,Middle East & North Africa,5.92,7.0
+Turkey,Middle East & North Africa,5.81,6.45
+Turkey,Middle East & North Africa,5.85,4.93
+Turkey,Middle East & North Africa,6.72,6.98
+Turkey,Middle East & North Africa,6.74,7.98
+Turkey,Middle East & North Africa,7.27,8.72
+Turkey,Middle East & North Africa,7.21,7.48
+Turkey,Middle East & North Africa,7.43,7.95
+Turkey,Middle East & North Africa,7.25,8.2
+Turkey,Middle East & North Africa,7.25,8.07
+Turkey,Middle East & North Africa,7.08,7.68
+Uganda,Sub-Saharan Africa,5.6,8.43
+Uganda,Sub-Saharan Africa,5.58,8.53
+Uganda,Sub-Saharan Africa,5.93,8.57
+Uganda,Sub-Saharan Africa,5.83,7.72
+Uganda,Sub-Saharan Africa,5.95,7.17
+Uganda,Sub-Saharan Africa,5.76,8.33
+Uganda,Sub-Saharan Africa,5.54,7.58
+Uganda,Sub-Saharan Africa,5.64,7.4
+Uganda,Sub-Saharan Africa,5.85,8.17
+Uganda,Sub-Saharan Africa,5.64,7.27
+Uganda,Sub-Saharan Africa,5.8,8.47
+Ukraine,Eastern Europe,6.83,6.75
+Ukraine,Eastern Europe,6.83,6.48
+Ukraine,Eastern Europe,6.66,6.67
+Ukraine,Eastern Europe,6.58,2.68
+Ukraine,Eastern Europe,6.53,2.02
+Ukraine,Eastern Europe,7.63,8.33
+Ukraine,Eastern Europe,7.58,8.37
+Ukraine,Eastern Europe,7.78,9.23
+Ukraine,Eastern Europe,7.93,9.3
+Ukraine,Eastern Europe,7.89,9.27
+Ukraine,Eastern Europe,7.86,9.23
+United Arab Emirates,Middle East & North Africa,5.28,8.72
+United Arab Emirates,Middle East & North Africa,5.3,8.68
+United Arab Emirates,Middle East & North Africa,5.5,9.52
+United Arab Emirates,Middle East & North Africa,5.24,8.7
+United Arab Emirates,Middle East & North Africa,5.22,9.12
+United Arab Emirates,Middle East & North Africa,5.42,9.95
+United Arab Emirates,Middle East & North Africa,5.39,9.95
+United Arab Emirates,Middle East & North Africa,5.22,9.97
+United Arab Emirates,Middle East & North Africa,5.49,9.95
+United Arab Emirates,Middle East & North Africa,5.49,9.95
+United Arab Emirates,Middle East & North Africa,5.48,9.95
+United Kingdom,Western Europe,8.79,9.9
+United Kingdom,Western Europe,8.83,9.73
+United Kingdom,Western Europe,8.93,9.9
+United Kingdom,Western Europe,8.98,9.92
+United Kingdom,Western Europe,9.1,9.93
+United Kingdom,Western Europe,9.01,9.9
+United Kingdom,Western Europe,9.03,9.93
+United Kingdom,Western Europe,9.07,9.93
+United Kingdom,Western Europe,9.05,9.9
+United Kingdom,Western Europe,9.11,9.92
+United Kingdom,Western Europe,9.1,9.92
+United States,North America,8.66,9.25
+United States,North America,8.75,9.1
+United States,North America,8.71,9.18
+United States,North America,8.81,9.65
+United States,North America,8.85,9.68
+United States,North America,8.8,9.67
+United States,North America,8.78,9.65
+United States,North America,8.7,9.65
+United States,North America,8.69,9.63
+United States,North America,8.71,9.58
+United States,North America,8.7,9.58
+Uruguay,Latin America & the Caribbean,8.59,9.2
+Uruguay,Latin America & the Caribbean,8.67,9.45
+Uruguay,Latin America & the Caribbean,8.47,9.45
+Uruguay,Latin America & the Caribbean,8.56,9.43
+Uruguay,Latin America & the Caribbean,8.55,9.48
+Uruguay,Latin America & the Caribbean,8.46,9.48
+Uruguay,Latin America & the Caribbean,8.67,9.48
+Uruguay,Latin America & the Caribbean,8.78,9.6
+Uruguay,Latin America & the Caribbean,8.78,9.6
+Uruguay,Latin America & the Caribbean,8.76,9.55
+Uruguay,Latin America & the Caribbean,8.74,9.57
+"Venezuela, RB",Latin America & the Caribbean,4.81,6.97
+"Venezuela, RB",Latin America & the Caribbean,4.97,7.45
+"Venezuela, RB",Latin America & the Caribbean,5.61,7.4
+"Venezuela, RB",Latin America & the Caribbean,5.44,7.5
+"Venezuela, RB",Latin America & the Caribbean,6.06,7.5
+"Venezuela, RB",Latin America & the Caribbean,6.4,7.5
+"Venezuela, RB",Latin America & the Caribbean,6.42,7.5
+"Venezuela, RB",Latin America & the Caribbean,6.58,7.5
+"Venezuela, RB",Latin America & the Caribbean,6.42,6.67
+"Venezuela, RB",Latin America & the Caribbean,6.31,7.48
+"Venezuela, RB",Latin America & the Caribbean,6.4,8.33
+Vietnam,South Asia,6.3,9.9
+Vietnam,South Asia,6.4,9.9
+Vietnam,South Asia,5.92,9.9
+Vietnam,South Asia,6.06,9.07
+Vietnam,South Asia,6.11,9.07
+Vietnam,South Asia,6.03,9.07
+Vietnam,South Asia,6.03,9.07
+Vietnam,South Asia,6.24,9.9
+Vietnam,South Asia,6.55,9.9
+Vietnam,South Asia,6.54,9.9
+Vietnam,South Asia,6.52,9.08
+"Yemen, Rep.",Middle East & North Africa,2.83,2.23
+"Yemen, Rep.",Middle East & North Africa,2.94,2.2
+"Yemen, Rep.",Middle East & North Africa,2.53,2.1
+"Yemen, Rep.",Middle East & North Africa,2.77,1.22
+"Yemen, Rep.",Middle East & North Africa,3.46,2.07
+"Yemen, Rep.",Middle East & North Africa,3.91,3.67
+"Yemen, Rep.",Middle East & North Africa,3.84,2.92
+"Yemen, Rep.",Middle East & North Africa,3.66,3.42
+"Yemen, Rep.",Middle East & North Africa,4.59,5.17
+Zambia,Sub-Saharan Africa,6.23,9.23
+Zambia,Sub-Saharan Africa,6.19,9.23
+Zambia,Sub-Saharan Africa,6.27,9.23
+Zambia,Sub-Saharan Africa,6.42,9.23
+Zambia,Sub-Saharan Africa,6.27,9.23
+Zambia,Sub-Saharan Africa,6.36,9.2
+Zambia,Sub-Saharan Africa,6.53,9.6
+Zambia,Sub-Saharan Africa,6.58,9.6
+Zambia,Sub-Saharan Africa,6.42,9.6
+Zambia,Sub-Saharan Africa,6.65,9.6
+Zambia,Sub-Saharan Africa,6.69,9.65
+Zimbabwe,Sub-Saharan Africa,6.06,8.27
+Zimbabwe,Sub-Saharan Africa,6.04,8.72
+Zimbabwe,Sub-Saharan Africa,5.82,8.72
+Zimbabwe,Sub-Saharan Africa,5.78,7.88
+Zimbabwe,Sub-Saharan Africa,6.01,7.88
+Zimbabwe,Sub-Saharan Africa,6.06,7.82
+Zimbabwe,Sub-Saharan Africa,5.68,7.47
+Zimbabwe,Sub-Saharan Africa,5.75,7.47
+Zimbabwe,Sub-Saharan Africa,5.59,6.75
+Zimbabwe,Sub-Saharan Africa,5.61,6.55
+Zimbabwe,Sub-Saharan Africa,5.54,6.5
