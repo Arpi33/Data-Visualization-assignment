@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<head>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+    <script>
+        $(function(){
+            $("#header").load("header.html");
+        });
+    </script>
+
+    <title>EF Legal Courts vs Avg Crime Cases</title>
+</head>
+
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <div id="header"></div>
+
+    <style>
+
+        svg{
+            background-color: #E9F0F1;
+            position: absolute;
+            left: 400px;
+            top: 200px;
+        }
+
+        .tooltip {
+            position      : absolute;
+            text-align    : left;
+            min-width     : 80px;
+            min-height    : auto;
+            padding       : 8px;
+            border        : solid;
+            border-radius : 8px;
+            border-radius : 8px;
+            font          : 15px sans-serif;
+            background    : white;
+            color         : black;
+        }
+    </style>
+
+    <script>
+
+    var margin = { top: 50, right: 80, bottom: 80, left: 50 },
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+    
+    var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    d3.csv("hfi_cc_2020_Emelyn.csv", function(error, csv_data) {
+        if (error) throw error;
+
+        var data = d3.nest()
+            .key(function(d) {return d.ef_legal_courts;})
+            .rollup(function(d) {
+                return {
+                    mean_crime_cases: d3.mean(d, function(g) {return g.crime_cases;})
+                }
+            }).entries(csv_data)
+
+        var vars = [];
+
+        for (let i = 0; i < data.length; i++) { //Loop the ef_legal_courts
+            vars.push({"xVal":data[i].key, "yVal":data[i].value.mean_crime_cases},); 
+        }
+
+        var x = d3.scaleBand()
+            //.domain(data.map(function(d) { return d.xVal; }))
+            .range([0, width])
+            .padding(0.2);
+
+        var y = d3.scaleLinear()
+            .domain([0, 10])
+            .range([height, 0]);
+
+        x.domain(vars.map(function(d) { return d.xVal; }));
+        //y.domain([0, d3.max(data, function(d) { return d.yVal; })]);
+    
+
+        svg.append("g")  //x-axis value labels
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x))
+        .selectAll("text")
+        .attr("transform", "translate(-12,13)rotate(-90)") //Rotate x-axis labels
+        .style("text-anchor", "middle");
+
+        svg.append("g") //x-axis label text
+        .append("text")
+        .attr("transform", "translate(400,405)rotate(0)")
+        .attr("x", 6)
+        .attr("dx", "0.71em")
+        .attr("text-anchor", "end")
+        .style("font-family", "times_new_roman")
+        .style("font-weight", 900)  
+        .text("EF of Legal Courts");
+
+        svg.append("g") //y-axis label text
+        .call(d3.axisLeft(y))
+        .append("text")
+        .attr("fill", "#000")
+        .attr("transform", "scale(1.5)translate(-30, 100)rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", "0.71em")
+        .attr("text-anchor", "end")
+        .style("font-family", "times_new_roman")
+        .style("font-weight", 900)  
+        .text("Average Crime Cases");
+
+        
+        var tooltip = d3.select("body")
+            .append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+
+        var mouseover = function(d) {
+            tooltip.style("opacity", 1)
+            d3.select(this)
+            .style("stroke", "black")
+            .style("fill", "DarkBlue");
+        }
+
+        var mousemove = function(d) {
+            tooltip
+            .html(
+                "EF Legal Court: " + d.xVal + "<br/>" + 
+                "Average crime cases: " + d3.format(".2f")(d.yVal) 
+            )
+            .style("left", (d3.mouse(this)[0]+50) + "px")
+            .style("top", (d3.mouse(this)[1]+200) + "px")
+        }
+
+        var mouseleave = function(d) {
+            tooltip.style("opacity", 0)
+            d3.select(this)
+            .style("stroke", "none")
+            .style("opacity", 1)
+            .style("fill", "steelblue");
+        }
+
+        svg.selectAll("bar") // append bars
+            .data(vars)
+            .enter()
+            .append("rect")
+            .style("fill", "steelblue")
+            .attr("class", "bar")
+            .attr("x", function(d) { return x(d.xVal); })
+            .attr("width", x.bandwidth())
+            .attr("y", function(d) { return y(d.yVal); })
+            .attr("height", function(d) { return height - y(d.yVal); })
+            .on("mouseover", mouseover)
+            .on("mousemove", mousemove)
+            .on("mouseleave", mouseleave);
+
+        svg.append("text")
+            .attr("x", (width / 2))             
+            .attr("y", 8 - (margin.top / 2))
+            .attr("text-anchor", "middle")  
+            .style("font-size", "24px") 
+            .style("font-weight", 900)  
+            .style("text-decoration", "bold")  
+            .text("Economic Freedom of Legal Courts vs Average Crime Cases");
+
+    });
+
+</script>
+</body>

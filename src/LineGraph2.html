@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<style> /* set the CSS */
+
+    .line {
+      fill: none;
+      stroke: steelblue;
+      stroke-width: 2px;
+    }
+    
+    </style>
+<head>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">
+    </script>
+    <script>
+        $(function(){
+            $("#header").load("header.html");
+        });
+    </script>
+
+    <title>Religious freedom vs Crime cases</title>
+</head>
+
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <div id="header"></div>
+<style>
+  svg{
+      background-color: #E9F0F1;
+      position: absolute;
+      left: 400px;
+      top: 200px;
+  }
+
+  .tooltip {
+      position      : absolute;
+      text-align    : left;
+      min-width     : 80px;
+      min-height    : auto;
+      padding       : 8px;
+      border        : solid;
+      border-radius : 8px;
+      border-radius : 8px;
+      font          : 15px sans-serif;
+      background    : white;
+      color         : black;
+  }
+</style>
+
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 50, right: 80, bottom: 60, left: 50},
+    width = 1000 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+
+
+// set the ranges
+var x = d3.scaleLinear().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+// define the line
+var valueline = d3.line()
+    .x(function(d) { return x(d.religious_freedom); })
+    .y(function(d) { return y(d.crime_cases); });
+
+// append the svg obgect to the body of the page
+// appends a 'group' element to 'svg'
+// moves the 'group' element to the top left margin
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+// Get the data
+d3.csv("DVAssignmentbarchart (2).csv", function(error, data) {
+  if (error) throw error;
+
+  // format the data
+  data.forEach(function(d) {
+    d.religious_freedom = +d.religious_freedom;
+      d.crime_cases = +d.crime_cases;
+  });
+
+  // Scale the range of the data
+  x.domain([6.7,d3.max(data, function(d) { return d.religious_freedom; })]);
+  y.domain([8.2, d3.max(data, function(d) { return d.crime_cases; })]);
+
+
+  // Tooltip
+  var tooltip = d3.select("body")
+      .append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
+  var mouseover = function(d) {
+      tooltip.style("opacity", 1)
+      d3.select(this);
+  }
+
+  var mousemove = function(d) {
+      tooltip
+      .html(
+          "Religious Freedom: " + d.religious_freedom + "<br/>" + 
+          "Crime cases: " + d.crime_cases
+      )
+      .style("left", (d3.mouse(this)[0]+200) + "px")
+      .style("top", (d3.mouse(this)[1]+200) + "px")
+  }
+
+  var mouseleave = function(d) {
+      tooltip.style("opacity", 0)
+      d3.select(this);
+  }
+
+  // Add the valueline path.
+  svg.append("path")
+      .data([data])
+      .attr("class", "line")
+      .attr("d", valueline)
+      .on("mouseover", mouseover)
+      .on("mousemove", mousemove)
+      .on("mouseleave", mouseleave);
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+      .selectAll("text")
+      .attr("transform", "translate(-12,13)rotate(-90)") //Rotate x-axis labels
+      .style("text-anchor", "middle");
+
+  svg.append("g") //x-axis label text
+      .append("text")
+      .attr("transform", "translate(500,430)rotate(0)")
+      .attr("x", 6)
+      .attr("dx", "0.71em")
+      .attr("text-anchor", "end")
+      .style("font-family", "times_new_roman")
+      .style("font-weight", 900)  
+      .text("Religious Freedom");
+
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y))
+      .append("text")
+      .attr("fill", "#000")
+      .attr("transform", "scale(1.5)translate(-35, 100)rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", "0.71em")
+      .attr("text-anchor", "end")
+      .style("font-family", "times_new_roman")
+      .style("font-weight", 900)  
+      .text("Crime Cases");
+
+  svg.append("text")
+      .attr("x", (width / 2))             
+      .attr("y", 8 - (margin.top / 2))
+      .attr("text-anchor", "middle")  
+      .style("font-size", "24px") 
+      .style("font-weight", 900)  
+      .style("text-decoration", "bold")  
+      .text("Religious Freedom vs Crime Cases");
+
+
+});
+
+</script>
+</body>
